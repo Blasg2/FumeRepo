@@ -705,6 +705,10 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
+file = "icon.png"
+hash = "5592b4bda7121f8db865910d3d0bd58ec5b70cd5c5f62008f5651e793de7c7bb"
+
+[[files]]
 file = "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar"
 hash = "87b1f5306fb54a55fcf6ad83a0505f81f613834a0e5c8e907c64d9eee108fddc"
 
@@ -1863,10 +1867,6 @@ hash = "be8fae0d9126bbb66f1827e7abb27f6eee5d0a566808a13e5f3840da1be50e77"
 [[files]]
 file = "mods/geckolib-forge-1.20.1-4.7.1.2.jar"
 hash = "46e278e8b052cc98f548f02fe03b11339af0397724525d7258429dc2ad68f4a1"
-
-[[files]]
-file = "mods/hologram_panel-1.20.1-forge-1.0.1.jar"
-hash = "666b832a5d57bb3c99c37cbc2496dfd98f13f635982af26db941f6515d6753c3"
 
 [[files]]
 file = "mods/horror_element_mod-1.6.1-forge-1.20.1.jar"
