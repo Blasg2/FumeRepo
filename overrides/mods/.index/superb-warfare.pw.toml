@@ -1,0 +1,16 @@
+filename = 'superbwarfare-1.20.1-0.7.5-86244180.jar'
+name = 'Superb Warfare'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7f2e7cb9cf2be98e27d02aa0e9c7e0315e672c3a51782c9237e342839969baf662171b66086fa367bb4ab671d656ecff3a893aa730901ecd1b840475c8fbd41f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Cd3DYqzn/versions/oF3wvnap/superbwarfare-1.20.1-0.7.5-86244180.jar'
+
+[update.modrinth]
+mod-id = 'Cd3DYqzn'
+version = 'oF3wvnap'

@@ -1,0 +1,13 @@
+name = "Fume"
+author = "Blasg"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7fd4d84a4463dea96bbc39d2d91503a8d767bcc0f6e39c7cf4d102eb68395d03"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

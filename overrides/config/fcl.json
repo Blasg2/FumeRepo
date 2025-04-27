@@ -1,0 +1,10 @@
+{ 
+    "format": 1, 
+    "info": "FCL (Fexcraft Common Library) Config File", 
+    "general": { 
+        "example_recipes": { 
+            "info": "Should FCL testing/example recipes in the Crafting block be enabled?", 
+            "value": true
+        }
+    }
+}

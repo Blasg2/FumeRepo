@@ -1,0 +1,16 @@
+filename = 'hologram_panel-1.20.1-forge-1.0.1.jar'
+name = 'HologramPanel'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'b09be915210533ee4f3869b52990b9eb36cd0fd8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6456174
+project-id = 1234869

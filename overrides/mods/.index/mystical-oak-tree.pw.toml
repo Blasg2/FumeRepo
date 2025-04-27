@@ -1,0 +1,16 @@
+filename = 'mysticaloaktree-1.20-1.11.jar'
+name = 'Mystical Oak Tree'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '56dfd68a726f5d0d75e47d2518021e4a7e81b943'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4654234
+project-id = 691002
