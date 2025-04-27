@@ -1,2081 +1,2081 @@
 hash-format = "sha256"
 
 [[files]]
-file = "overrides/config/Advancedperipherals/general.toml"
+file = "config/Advancedperipherals/general.toml"
 hash = "e6f512892001847d044902a87845611bfd24f716dc5b5f2d737ee93c6bbd7a81"
 
 [[files]]
-file = "overrides/config/Advancedperipherals/metaphysics.toml"
+file = "config/Advancedperipherals/metaphysics.toml"
 hash = "708933b1de278e96e67050d8c589297e7cf6c7051c7c69e866068d6f150c026a"
 
 [[files]]
-file = "overrides/config/Advancedperipherals/peripherals.toml"
+file = "config/Advancedperipherals/peripherals.toml"
 hash = "044d48f0876884a4004e4822c8a143c98fc99c8470ab2f02caa834bc6cf18089"
 
 [[files]]
-file = "overrides/config/Advancedperipherals/world.toml"
+file = "config/Advancedperipherals/world.toml"
 hash = "8c18856003f1c363e48e140ee3c2a833208d59401dab04534fd023e3b7e964b5"
 
 [[files]]
-file = "overrides/config/CoroUtil/General.toml"
+file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
 [[files]]
-file = "overrides/config/HologramPanel/client.toml"
+file = "config/HologramPanel/client.toml"
 hash = "fdbeb928d0eb842b1d091d79a45bf2edfde2bcb528c97fb676f9129300e65507"
 
 [[files]]
-file = "overrides/config/HologramPanel/plugins/hologram_panel_build_in.toml"
+file = "config/HologramPanel/plugins/hologram_panel_build_in.toml"
 hash = "30eceb7dd88441f785f9199726af1a6099ded8a8ee15d8631b5dcf1ed70e616b"
 
 [[files]]
-file = "overrides/config/HologramPanel/style.toml"
+file = "config/HologramPanel/style.toml"
 hash = "f87c1f6d41abec22b93d0e166ab21fe7822f569e8e95991bbeacddbefef1f05a"
 
 [[files]]
-file = "overrides/config/MouseTweaks.cfg"
+file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
-file = "overrides/config/TheDoppelganger.json"
+file = "config/TheDoppelganger.json"
 hash = "8b8a8e14d130f29126e836aa5f17ad165a3d6ebc0ac250b2deab69dcefbd84ec"
 
 [[files]]
-file = "overrides/config/advancementplaques-common.toml"
+file = "config/advancementplaques-common.toml"
 hash = "b7812dd0a3535dea9871f2695b363727bb0abde965d365ca41e8c63b8bd67884"
 
 [[files]]
-file = "overrides/config/ae2/client.json"
+file = "config/ae2/client.json"
 hash = "c1a4e1058ad7970f2f4d83aab93afda83ea713026c8ebc1d63942ee66a6d3c66"
 
 [[files]]
-file = "overrides/config/ae2/common.json"
+file = "config/ae2/common.json"
 hash = "f390a5328244fa4f300041b581369bd17fbb6194824574a7cae47523ed01b046"
 
 [[files]]
-file = "overrides/config/aether-client.toml"
+file = "config/aether-client.toml"
 hash = "af8e3af4abe7f842d868ed37eca229483adade23b792f8758be240a3d438f9c6"
 
 [[files]]
-file = "overrides/config/aether-common.toml"
+file = "config/aether-common.toml"
 hash = "c48fcf909782f15a5e7da5b1adf223bb23b19d335b03dbc20eafaf6fdc33e763"
 
 [[files]]
-file = "overrides/config/aether/aether_customizations.txt"
+file = "config/aether/aether_customizations.txt"
 hash = "113f7dfc56b7b2efdc782e45356c87c47174bb76dc34dcef24ca2ec32c7908e1"
 
 [[files]]
-file = "overrides/config/aether/sun_altar_whitelist.json"
+file = "config/aether/sun_altar_whitelist.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
-file = "overrides/config/almostunified/debug.json"
+file = "config/almostunified/debug.json"
 hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
 
 [[files]]
-file = "overrides/config/almostunified/duplicates.json"
+file = "config/almostunified/duplicates.json"
 hash = "40639e8cb9e9ea52b8557c50d29fc06e73e2ad1e7ca27ae5ce8fe2eca2e97188"
 
 [[files]]
-file = "overrides/config/almostunified/startup.json"
+file = "config/almostunified/startup.json"
 hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
-file = "overrides/config/almostunified/unify.json"
+file = "config/almostunified/unify.json"
 hash = "9dd105eb404830a866f936672179caba237f174c21bdc31c7756442339241131"
 
 [[files]]
-file = "overrides/config/amendments-client.toml"
+file = "config/amendments-client.toml"
 hash = "77f178c786e8e9ca3862911243a1699bef9f02feedb0502e694e932ac1ff761d"
 
 [[files]]
-file = "overrides/config/amendments-common.toml"
+file = "config/amendments-common.toml"
 hash = "231fbc6c0968bd951ba7fb09d9f016b94e8a08b78e5500b5f8030621260f6835"
 
 [[files]]
-file = "overrides/config/anthillinside-common.toml"
+file = "config/anthillinside-common.toml"
 hash = "4ab775fc340b68d0177b8cc026ce39403a087328c4f4d89fccfc0610f82cd21c"
 
 [[files]]
-file = "overrides/config/appleskin-client.toml"
+file = "config/appleskin-client.toml"
 hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
 
 [[files]]
-file = "overrides/config/attributefix.json"
+file = "config/attributefix.json"
 hash = "51b0c9ed983d5303a657d69e608cd767a32b4da56109e409e80ff69ef5238ce6"
 
 [[files]]
-file = "overrides/config/balm-common.toml"
+file = "config/balm-common.toml"
 hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
 
 [[files]]
-file = "overrides/config/bcc-common.toml"
+file = "config/bcc-common.toml"
 hash = "d048f1f87fd8e006a5a77accb0416f7ef673197b29d65d0397dce7eb6b2b7d0f"
 
 [[files]]
-file = "overrides/config/betteradvancements-client.toml"
+file = "config/betteradvancements-client.toml"
 hash = "2c5eba79cde20bd1658a43dc0527e5d45b2e462d2f065e228527eee8513446be"
 
 [[files]]
-file = "overrides/config/betterarcheology-common.toml"
+file = "config/betterarcheology-common.toml"
 hash = "b2729a5916c5aac214f67337d1d38ee7767e1e14b7f2dcb7b7371a9509829a96"
 
 [[files]]
-file = "overrides/config/betterthirdperson-common.toml"
+file = "config/betterthirdperson-common.toml"
 hash = "3843f47cb52faddf9bc4d8dd08a4d7e30061e671128d99412ca6a6c27bd1485b"
 
 [[files]]
-file = "overrides/config/biomesoplenty/biome_toggles.json"
+file = "config/biomesoplenty/biome_toggles.json"
 hash = "6e81cf8f8ffd55004413d05e2579a63613d39a180bf5a4ff67ffa98ec44b1aa9"
 
 [[files]]
-file = "overrides/config/biomesoplenty/gameplay.toml"
+file = "config/biomesoplenty/gameplay.toml"
 hash = "c48cf5d4b895aae33a2e757aa7b46768d3c30b93f7f09c7a2a3156d5622ec0f1"
 
 [[files]]
-file = "overrides/config/biomesoplenty/generation.toml"
+file = "config/biomesoplenty/generation.toml"
 hash = "5bd28687e2aca9a8f781f5541cc259e807fdc84bee7e6f9a995dd215b7019c3f"
 
 [[files]]
-file = "overrides/config/camera-client.toml"
+file = "config/camera-client.toml"
 hash = "d192832f5a2fc4b0ed9b942adfce0ffafd75d5286e45da25aa3bf3c8a30ef3f8"
 
 [[files]]
-file = "overrides/config/carryon-client.toml"
+file = "config/carryon-client.toml"
 hash = "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db"
 
 [[files]]
-file = "overrides/config/carryon-common.toml"
+file = "config/carryon-common.toml"
 hash = "9c31f7f00ebe4025a6a11ee6257fe672b57866f7ec6206f97656b6cdf095b0b1"
 
 [[files]]
-file = "overrides/config/casinocraft-common.toml"
+file = "config/casinocraft-common.toml"
 hash = "c56f59b2da3983f4413200f3f519545be938e9c10940655494714392d6d03327"
 
 [[files]]
-file = "overrides/config/chat_heads.json5"
+file = "config/chat_heads.json5"
 hash = "744e6977b53f264ff47a1925451f7bd7083eb6bd7bff2505980cc3e9ca4ca0e2"
 
 [[files]]
-file = "overrides/config/chatplus/chatplus-v2.5.0.json"
+file = "config/chatplus/chatplus-v2.5.0.json"
 hash = "246bb420a02d67bdd930a65cd23d8dee1ea29531c2ba9eebc6675a7127a21f20"
 
 [[files]]
-file = "overrides/config/collective.json5"
+file = "config/collective.json5"
 hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
 
 [[files]]
-file = "overrides/config/collective/entity_names.json"
+file = "config/collective/entity_names.json"
 hash = "bddeff5a95a00aaed5c3d2a37bc73d81a1a69a31377f251330aca1265be6945a"
 
 [[files]]
-file = "overrides/config/computercraft-client.toml"
+file = "config/computercraft-client.toml"
 hash = "74a4490a9e22547861cccba0a9cf729be26b2a482ca3fd2c694ea0f4d08e77f2"
 
 [[files]]
-file = "overrides/config/configured-client.toml"
+file = "config/configured-client.toml"
 hash = "0b2537ac36e57824caf66e589bb532f0801b99d02ac08545739af3709bf84e10"
 
 [[files]]
-file = "overrides/config/connectivity.json"
+file = "config/connectivity.json"
 hash = "15de6d09567ab4c8194a1b0b344343ac0e5c9d9e4a72592696dafd0ff6b64587"
 
 [[files]]
-file = "overrides/config/connector.json"
+file = "config/connector.json"
 hash = "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22"
 
 [[files]]
-file = "overrides/config/continuity.json"
+file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
-file = "overrides/config/cookingforblockheads-common.toml"
+file = "config/cookingforblockheads-common.toml"
 hash = "c4e88abc346f2e4f466726c1ab1aa2b6d1aa70fd99e8ba64e1de9ca8273d7d4e"
 
 [[files]]
-file = "overrides/config/craftingtweaks-common.toml"
+file = "config/craftingtweaks-common.toml"
 hash = "a2f3940fbd0583446912f67761d1c5be8ea734c78bff1db54c7c5b53cd5576ed"
 
 [[files]]
-file = "overrides/config/create-client.toml"
+file = "config/create-client.toml"
 hash = "7c40bc004ba478b13d0c99c2b644e50cf3a1d2d60d9b40df15822da8d8ad710c"
 
 [[files]]
-file = "overrides/config/create-common.toml"
+file = "config/create-common.toml"
 hash = "36a4d9f5da68f6801b83ce0c4a1a8805fbeffb0dd997f2d405465d7774522296"
 
 [[files]]
-file = "overrides/config/creeperoverhaul.jsonc"
+file = "config/creeperoverhaul.jsonc"
 hash = "9d870b28f9a1479f952f258f7f01aebceb17fdc78c23014469c8ac055fad9bbb"
 
 [[files]]
-file = "overrides/config/cumulus_menus-client.toml"
+file = "config/cumulus_menus-client.toml"
 hash = "ccd9f7f7a0539175dbdba77592e96667977a569c3ec506ac6a457bfad4223c93"
 
 [[files]]
-file = "overrides/config/cupboard.json"
+file = "config/cupboard.json"
 hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
 
 [[files]]
-file = "overrides/config/curios-client.toml"
+file = "config/curios-client.toml"
 hash = "ebc96c813d601e9c61b6929a8490e71fa990dc64918c19e1f9937bb275510abc"
 
 [[files]]
-file = "overrides/config/curios-common.toml"
+file = "config/curios-common.toml"
 hash = "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea"
 
 [[files]]
-file = "overrides/config/distantfriends-common.toml"
+file = "config/distantfriends-common.toml"
 hash = "556eb7b8706d92662bababd89e7ade09b19625efe6e3ea25900084aee83195c8"
 
 [[files]]
-file = "overrides/config/documents_config.json"
+file = "config/documents_config.json"
 hash = "0cd12ca26ee2f041a0c3ffc1d83b2412ad56555ad85d6243d2dee10900d08113"
 
 [[files]]
-file = "overrides/config/documents_perms.json"
+file = "config/documents_perms.json"
 hash = "98b402297ac8a20ea65b4248489f426a771ef4f8b2eeae0513b4c7cd85c06a42"
 
 [[files]]
-file = "overrides/config/documents_players/93d9fd44-59e7-4581-82fb-f5e38595f32f.json"
+file = "config/documents_players/93d9fd44-59e7-4581-82fb-f5e38595f32f.json"
 hash = "e2aec8f917d572d4701a509afd6ef00b0b822a93db6aad005662dd6ff948129d"
 
 [[files]]
-file = "overrides/config/documents_types/example_id.json"
+file = "config/documents_types/example_id.json"
 hash = "f6f63620f25adc598507d9c7d91bda66b885e8a0467ac00a967316e73f41ddca"
 
 [[files]]
-file = "overrides/config/doggytalents-client.toml"
+file = "config/doggytalents-client.toml"
 hash = "f21321a996a7afed31a468d7f6af9efb8350935c8d46f6320504be58a3ae1349"
 
 [[files]]
-file = "overrides/config/doggytalents-dog_custom_skins_client.toml"
+file = "config/doggytalents-dog_custom_skins_client.toml"
 hash = "922d6ea872ad4087927cfc62351886ad6b7b74550f4e6cb213c9fd0f3408f984"
 
 [[files]]
-file = "overrides/config/emi.css"
+file = "config/emi.css"
 hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
 
 [[files]]
-file = "overrides/config/enchdesc.json"
+file = "config/enchdesc.json"
 hash = "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5"
 
 [[files]]
-file = "overrides/config/endermanoverhaul-client.jsonc"
+file = "config/endermanoverhaul-client.jsonc"
 hash = "5d9315a8ce308b193ca880f5a782879c0f117861b08ccb38baed6d049e29b26a"
 
 [[files]]
-file = "overrides/config/endermanoverhaul.jsonc"
+file = "config/endermanoverhaul.jsonc"
 hash = "9502aced0fb4379a4a5e72c484fb155ffcdf80aff96f8f88ed4a0111b42d9003"
 
 [[files]]
-file = "overrides/config/entangled-common.toml"
+file = "config/entangled-common.toml"
 hash = "419e187d83bb43ef3dc1b50824a2a4b560747d27ddd64297120b16f5b0ea1562"
 
 [[files]]
-file = "overrides/config/entity_model_features.json"
+file = "config/entity_model_features.json"
 hash = "697fd055aa06966d44251e53e1b51da5cbc903769bf631bcdc6534526a243683"
 
 [[files]]
-file = "overrides/config/entity_texture_features.json"
+file = "config/entity_texture_features.json"
 hash = "0554c0e7816266477c65c18d2ada9fdddf1c6750787efd329056223ca4a073b2"
 
 [[files]]
-file = "overrides/config/etf_warnings.json"
+file = "config/etf_warnings.json"
 hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
-file = "overrides/config/everyxdance-common.toml"
+file = "config/everyxdance-common.toml"
 hash = "29a1232f13e13970bbe880876d33b5b7c53f01942c1311d317502e9cbe133181"
 
 [[files]]
-file = "overrides/config/fabric/indigo-renderer.properties"
+file = "config/fabric/indigo-renderer.properties"
 hash = "ec6e712f20a70af61f845756858dfdad2a950d745774a590c37b6e321504a131"
 
 [[files]]
-file = "overrides/config/fallingleaves-client.toml"
+file = "config/fallingleaves-client.toml"
 hash = "2cd017af6632239398b694fadf8191d6073cf39585549876cc682843f521ecb3"
 
 [[files]]
-file = "overrides/config/fastbench.cfg"
+file = "config/fastbench.cfg"
 hash = "240a14e19d211945629e719c0df4ff6b537d26fcf58b514b7f7c731b3ad69183"
 
 [[files]]
-file = "overrides/config/fcl.json"
+file = "config/fcl.json"
 hash = "f72aff9beaaa062408de0ba6d0b3e18173b853a303f91feb8398d7d0967bcc55"
 
 [[files]]
-file = "overrides/config/ferritecore-mixin.toml"
+file = "config/ferritecore-mixin.toml"
 hash = "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6"
 
 [[files]]
-file = "overrides/config/flywheel-client.toml"
+file = "config/flywheel-client.toml"
 hash = "36b3a7ad8ef4ead190818349eeeebf6e59ca869da958cb716f13f2152d7d9cbc"
 
 [[files]]
-file = "overrides/config/fml.toml"
+file = "config/fml.toml"
 hash = "eb6e8b8eda9682889a83d55262ef96cf37153d58fe7f0fa5d5cb1da5d9f7dd9b"
 
 [[files]]
-file = "overrides/config/forge-client.toml"
+file = "config/forge-client.toml"
 hash = "0b1b3c45343435184c9dde3149b38afcdb97953e287686ecda54385f53ebcddc"
 
 [[files]]
-file = "overrides/config/gravestone-client.toml"
+file = "config/gravestone-client.toml"
 hash = "0f7657373c8cccc3e9f11a79533c0c85c84e68762b65e5c6f9728ca9226873d3"
 
 [[files]]
-file = "overrides/config/highlighter-common.toml"
+file = "config/highlighter-common.toml"
 hash = "22b7f87be30b7e3ce6fa3fe1cb588e8b3eae0bfc9ddc390ad346a1d1bbfebb4b"
 
 [[files]]
-file = "overrides/config/hyperbox-client.toml"
+file = "config/hyperbox-client.toml"
 hash = "751b0f3b63aee3f68554b1f196a6ffa5c19aee4d9208beebdefe4af1ed4854b1"
 
 [[files]]
-file = "overrides/config/hyperbox-common.toml"
+file = "config/hyperbox-common.toml"
 hash = "e11af54566da144b6b90cc6a48056e92884ecd615ba8d45b9d030c857b1eb706"
 
 [[files]]
-file = "overrides/config/immediatelyfast.json"
+file = "config/immediatelyfast.json"
 hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
 
 [[files]]
-file = "overrides/config/immersive_aircraft.json"
+file = "config/immersive_aircraft.json"
 hash = "898347b99b3326ae0ce719a06351eb930b1a3567e4f3c22ba94f014f1e115a46"
 
 [[files]]
-file = "overrides/config/immersive_melodies.json"
+file = "config/immersive_melodies.json"
 hash = "ca96f689092afade8a5482c2990d907d75bfc72cb951709b7194a51a0d8ca1a9"
 
 [[files]]
-file = "overrides/config/immersiveengineering-client.toml"
+file = "config/immersiveengineering-client.toml"
 hash = "10e2de8d987432c81724371ff27ccc2a452e88f22880c45777ca0cd35eda6118"
 
 [[files]]
-file = "overrides/config/immersiveengineering-common.toml"
+file = "config/immersiveengineering-common.toml"
 hash = "728dcca3a45c8350e379078da02812cca77acb7e7a2d36011ddf5fe861b29bdb"
 
 [[files]]
-file = "overrides/config/jade/hide-blocks.json"
+file = "config/jade/hide-blocks.json"
 hash = "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b"
 
 [[files]]
-file = "overrides/config/jade/hide-entities.json"
+file = "config/jade/hide-entities.json"
 hash = "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3"
 
 [[files]]
-file = "overrides/config/jade/jade.json"
+file = "config/jade/jade.json"
 hash = "4624fc2e033829004e59a6269ccc409529d653d7cfa902e8cb3dc570daba14a2"
 
 [[files]]
-file = "overrides/config/jade/plugins.json"
+file = "config/jade/plugins.json"
 hash = "04ff2212c5d49ca0f698f903ff2a486f5b5b021bb7dd3b19078068cb20fa2ca8"
 
 [[files]]
-file = "overrides/config/jade/sort-order.json"
+file = "config/jade/sort-order.json"
 hash = "471e99200c809d72ae36f636a649324214f25a9c30be45823ad10b7850d18dcb"
 
 [[files]]
-file = "overrides/config/lmft.json"
+file = "config/lmft.json"
 hash = "4846032c4ea16277b5ba5622f77017472c15b6b23a60fc144c3e2959f91f6ee9"
 
 [[files]]
-file = "overrides/config/lootintegrations.json"
+file = "config/lootintegrations.json"
 hash = "aa35b459eb46a0d9992889629afd6b7519b7925ee549261c439d94c59e9e2cb2"
 
 [[files]]
-file = "overrides/config/lootr-client.toml"
+file = "config/lootr-client.toml"
 hash = "4e37c085446f2a5be3a3cc4765ffc9657e71473245574c3e398c64fef07615a0"
 
 [[files]]
-file = "overrides/config/lootr-common.toml"
+file = "config/lootr-common.toml"
 hash = "ae99282e7831653bf582c9c51d33a41243554af41bb1eb49ebdcdbec11e6f444"
 
 [[files]]
-file = "overrides/config/lost_aether_content-client.toml"
+file = "config/lost_aether_content-client.toml"
 hash = "afba6b0300fdba5f018e1316ebd88f31e8395f930de04419e7a140a3ba0b900a"
 
 [[files]]
-file = "overrides/config/lucky77-common.toml"
+file = "config/lucky77-common.toml"
 hash = "440d55d9169064f6ed2ddbdf138b60efe6ff1a3794a9aa95386b76a6cb2ea645"
 
 [[files]]
-file = "overrides/config/minecolonies-client.toml"
+file = "config/minecolonies-client.toml"
 hash = "e2479f865aab179a60038aa9826bf2bd39900f990d076ad5162519972833b214"
 
 [[files]]
-file = "overrides/config/minecolonies-common.toml"
+file = "config/minecolonies-common.toml"
 hash = "9e9b11a44581622f28540bee1f82c1c8918141814c2c8de1be73fe4138c73113"
 
 [[files]]
-file = "overrides/config/modernfix-common.toml"
+file = "config/modernfix-common.toml"
 hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 
 [[files]]
-file = "overrides/config/modernfix-mixins.properties"
+file = "config/modernfix-mixins.properties"
 hash = "c926014d604d1c2933c9394e76baf2139aec3b62fc9958e2577337ccf368c8dd"
 
 [[files]]
-file = "overrides/config/moonlight-client.toml"
+file = "config/moonlight-client.toml"
 hash = "135255a72816385345a135fa013c93dd1737c35eebb80690d29d1b572917267d"
 
 [[files]]
-file = "overrides/config/moonlight-common.toml"
+file = "config/moonlight-common.toml"
 hash = "2d6214779712374afd0e91d07be6596bb68bc9a0355ae97a4f84cbfec77553b9"
 
 [[files]]
-file = "overrides/config/notenoughcrashes.json"
+file = "config/notenoughcrashes.json"
 hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
 
 [[files]]
-file = "overrides/config/packetfixer.properties"
+file = "config/packetfixer.properties"
 hash = "1f606190739176f9027844507cc88da391a9fac2a70f5076154335f64d2b4d33"
 
 [[files]]
-file = "overrides/config/pehkui-client.toml"
+file = "config/pehkui-client.toml"
 hash = "18741b2cf056e7609eac3dabe966569a12a819ab03e083c873c85c27a52929a7"
 
 [[files]]
-file = "overrides/config/pehkui-common.toml"
+file = "config/pehkui-common.toml"
 hash = "8a4afcf7a631191fbe6a1416b4d16f55584deb22dd90ec7ec337fdf444a92ba7"
 
 [[files]]
-file = "overrides/config/player_companions-common.toml"
+file = "config/player_companions-common.toml"
 hash = "301126f7580b9f510432e78d03e1f99788795b8446f55383c6297165ab465e5d"
 
 [[files]]
-file = "overrides/config/polymorph-integrations.toml"
+file = "config/polymorph-integrations.toml"
 hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
 
 [[files]]
-file = "overrides/config/ponder-client.toml"
+file = "config/ponder-client.toml"
 hash = "56291af4bc3506692c79f5c0155c47cce8577d0aae6ed5930c9074d5cb9bc5c8"
 
 [[files]]
-file = "overrides/config/quark-common.toml"
+file = "config/quark-common.toml"
 hash = "fedbbde3fe40c39afe3628c07d6ca35c40c8626a715d47a6048c34748b44f606"
 
 [[files]]
-file = "overrides/config/resourceful-config-web.json"
+file = "config/resourceful-config-web.json"
 hash = "ecc67c152767cf8d48d13ca4e321cfa539198a37376310665c8be291d916d546"
 
 [[files]]
-file = "overrides/config/securitycraft-client.toml"
+file = "config/securitycraft-client.toml"
 hash = "decc781ce21f67bc380f9c56060f729845545372cd0dac311cabec9ad87b1823"
 
 [[files]]
-file = "overrides/config/sereneseasons/fertility.toml"
+file = "config/sereneseasons/fertility.toml"
 hash = "c5127ca2ad6134b149b9cfe4761fb52b618d8a90338dfb1e866be1b4ba1f05e6"
 
 [[files]]
-file = "overrides/config/sereneseasons/seasons.toml"
+file = "config/sereneseasons/seasons.toml"
 hash = "376eed75eab03c86c54941a3429a6608f8fd8265d26d8b2c7c25f8b53a29b26a"
 
 [[files]]
-file = "overrides/config/smoothchunk.json"
+file = "config/smoothchunk.json"
 hash = "5f85b2c857c2561cf720745f724d20befce7bb58732083259a798263c0af99f2"
 
 [[files]]
-file = "overrides/config/smoothswapping.json"
+file = "config/smoothswapping.json"
 hash = "3edb7a3cca0e7c3ec09f642516aba923bd8eba7ca414289a4103912fd24a7e66"
 
 [[files]]
-file = "overrides/config/sound_physics_remastered/allowed_sounds.properties"
+file = "config/sound_physics_remastered/allowed_sounds.properties"
 hash = "2b2b52fda755ef07c10d5e531307549d9eaf0e5d1058d7bce0056a608f84f8f2"
 
 [[files]]
-file = "overrides/config/sound_physics_remastered/occlusion.properties"
+file = "config/sound_physics_remastered/occlusion.properties"
 hash = "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
 
 [[files]]
-file = "overrides/config/sound_physics_remastered/reflectivity.properties"
+file = "config/sound_physics_remastered/reflectivity.properties"
 hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
-file = "overrides/config/sound_physics_remastered/soundphysics.properties"
+file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "068ccd6b0985f7ba643fb7ccd6e8149378b4679891a90aa2c787f8ba278330c6"
 
 [[files]]
-file = "overrides/config/storagedrawers-client.toml"
+file = "config/storagedrawers-client.toml"
 hash = "327bfd458ff2b57c072af1f192bd8f828f5e91cd6d3551345ef13d1f599e2f78"
 
 [[files]]
-file = "overrides/config/storagedrawers-common.toml"
+file = "config/storagedrawers-common.toml"
 hash = "c70908087cee12ca636ef72e3b95d1ae58fdf56f140cd448a06e546b6cfb3e8b"
 
 [[files]]
-file = "overrides/config/structure_gel-client.toml"
+file = "config/structure_gel-client.toml"
 hash = "8058ecb1b7e59f183db54b31fe49e2040bc222294a46ba5c7c82a172a7277354"
 
 [[files]]
-file = "overrides/config/structure_gel-common.toml"
+file = "config/structure_gel-common.toml"
 hash = "888d2904bd7dd577f72d901603912a440540eba21212b004cf6abe41f1cde23b"
 
 [[files]]
-file = "overrides/config/structureessentials.json"
+file = "config/structureessentials.json"
 hash = "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd"
 
 [[files]]
-file = "overrides/config/structurize-client.toml"
+file = "config/structurize-client.toml"
 hash = "2b87e5487a0305654478024bad2a429d05a5cbbe729ebbcbc940cad9d03c7180"
 
 [[files]]
-file = "overrides/config/superbwarfare-client.toml"
+file = "config/superbwarfare-client.toml"
 hash = "bb1c8c2bd4c61eebb17cc6f434a5e557e9057812a720a25e854722afa35f86b8"
 
 [[files]]
-file = "overrides/config/superbwarfare-common.toml"
+file = "config/superbwarfare-common.toml"
 hash = "263fde220c78d913db5436b35fd0cdc27e3a14a2493cd8edff66d3f9b39bf069"
 
 [[files]]
-file = "overrides/config/supplementaries-client.toml"
+file = "config/supplementaries-client.toml"
 hash = "2b72c89577500c2a8158b9c5418ec8078a47f965a7680e9bc4c47ef22f234c90"
 
 [[files]]
-file = "overrides/config/supplementaries-common.toml"
+file = "config/supplementaries-common.toml"
 hash = "8b14da7351641776d78241f29d9c20127c83faa32595ae6702744339b37e42a6"
 
 [[files]]
-file = "overrides/config/suppsquared-common.toml"
+file = "config/suppsquared-common.toml"
 hash = "2c20ac633c33b24a105115888730e73444ea6d11a291318de3cf5fa157f83685"
 
 [[files]]
-file = "overrides/config/terrablender.toml"
+file = "config/terrablender.toml"
 hash = "59d79e8bc4a42e678196a7164e5841a9803f8684f1b52b9944ce554c9f353691"
 
 [[files]]
-file = "overrides/config/tinyredstone-client.toml"
+file = "config/tinyredstone-client.toml"
 hash = "a534c1994d959f53820b3672d77c24a6d2eb1e533b67a6ed8e3debbee8d53021"
 
 [[files]]
-file = "overrides/config/tombstone-client.toml"
+file = "config/tombstone-client.toml"
 hash = "b7893669e874a7787d6b2794048dd5a6060bb5f9c2161c66e19f12020af9ade9"
 
 [[files]]
-file = "overrides/config/tombstone-common.toml"
+file = "config/tombstone-common.toml"
 hash = "d6640a7119fcabe08c40ebe40a58ebd65611c8a2eb22252610ea0156ca451a27"
 
 [[files]]
-file = "overrides/config/tombstone-server.toml"
+file = "config/tombstone-server.toml"
 hash = "425ab6ee47c7b8db4e957df1665691d8a7e61f4605c66be12dfd8575ad952dc1"
 
 [[files]]
-file = "overrides/config/tombstone/loottables/tombstone-pool-abandoned_grave.json"
+file = "config/tombstone/loottables/tombstone-pool-abandoned_grave.json"
 hash = "8c404248edcbe28547c5918cafc7c46bfde83e7e9b4b32959a2c020a5c6b96b7"
 
 [[files]]
-file = "overrides/config/tombstone/loottables/tombstone-pool-archaeology.json"
+file = "config/tombstone/loottables/tombstone-pool-archaeology.json"
 hash = "277219ed978859786d000e6e563bb9a5730ccc253657d1e5ee23c8cea5afbca6"
 
 [[files]]
-file = "overrides/config/tombstone/loottables/tombstone-pool-cat_morning.json"
+file = "config/tombstone/loottables/tombstone-pool-cat_morning.json"
 hash = "4d53711dbeb259c7f153a0f11006ebd3438c755ecc5d1a23a1eed5cd2f72c26c"
 
 [[files]]
-file = "overrides/config/tombstone/loottables/tombstone-pool-chest_treasure.json"
+file = "config/tombstone/loottables/tombstone-pool-chest_treasure.json"
 hash = "9633b8e3382fbd4d4208db21dcfb158a3b7c8c445e005c3654c349774a456d6b"
 
 [[files]]
-file = "overrides/config/tombstone/loottables/tombstone-pool-lost_treasure.json"
+file = "config/tombstone/loottables/tombstone-pool-lost_treasure.json"
 hash = "11fd1b0b91c58a995889731c14fdc7612f28dc43e00c9778a49666ee85e63f7f"
 
 [[files]]
-file = "overrides/config/tombstone/loottables/tombstone-pool-seeker_rod.json"
+file = "config/tombstone/loottables/tombstone-pool-seeker_rod.json"
 hash = "321d6dc8c422b5af62ab74c3eaeb47141cb30dcc8540d9bba97d907584df4893"
 
 [[files]]
-file = "overrides/config/tombstone/loottables/tombstone-pool-sniffer_digging.json"
+file = "config/tombstone/loottables/tombstone-pool-sniffer_digging.json"
 hash = "dc1187c2737eeeb727d33b50583009dedd114381cb8ba97816a379aa7fc6b42e"
 
 [[files]]
-file = "overrides/config/tombstone/loottables/tombstone-pool-undead_boss.json"
+file = "config/tombstone/loottables/tombstone-pool-undead_boss.json"
 hash = "012a5e6789026999faa47c5c53aa411c84756ad739a7d71fe69cd30427402a0e"
 
 [[files]]
-file = "overrides/config/tombstone/loottables/tombstone-pool-undead_mob.json"
+file = "config/tombstone/loottables/tombstone-pool-undead_mob.json"
 hash = "fe7cf03d99f56295ee4839912270cec2eb483d2d4933aca290788da3d4f8b762"
 
 [[files]]
-file = "overrides/config/tombstone/loottables/tombstone-table-chest_treasure.json"
+file = "config/tombstone/loottables/tombstone-table-chest_treasure.json"
 hash = "76604c70187b6ca03577528d4b3470d79effa247a119118459042bb4a3c2df38"
 
 [[files]]
-file = "overrides/config/tombstone/version.info"
+file = "config/tombstone/version.info"
 hash = "941f0d705fcc22ccf13c914e062a1387c7742917ce4c9a5b8c04db9014bcdc2e"
 
 [[files]]
-file = "overrides/config/twilightforest-client.toml"
+file = "config/twilightforest-client.toml"
 hash = "7df74722394aa6f9b662317ad4840fc9b0a2e11c394ef6da2b3d9eabb62808d3"
 
 [[files]]
-file = "overrides/config/twilightforest-common.toml"
+file = "config/twilightforest-common.toml"
 hash = "2d8051f2d41dd6ee7b9e6570e84cd18a3e2d013c0890c95c0b66e7ecce0346b8"
 
 [[files]]
-file = "overrides/config/villagernames.json5"
+file = "config/villagernames.json5"
 hash = "c6a90f762893e4b57c5ef6bd5fcc6a29180e8cb69c6fce3959bacb2ecf9041ea"
 
 [[files]]
-file = "overrides/config/villagernames/customnames.txt"
+file = "config/villagernames/customnames.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "overrides/config/visual_workbench.json"
+file = "config/visual_workbench.json"
 hash = "7885b862b10bf4b14d3103909971114a736d14a52e4a7994ace0d66a2474c14c"
 
 [[files]]
-file = "overrides/config/visualworkbench-client.toml"
+file = "config/visualworkbench-client.toml"
 hash = "a48b352862f74f6fe3ab071e7e43e631618e9c5f68b5f992b591d4dc87992954"
 
 [[files]]
-file = "overrides/config/voicechat-client.toml"
+file = "config/voicechat-client.toml"
 hash = "24a7b91377e08d0d8bc2805793c8150d473241aa816cbaa6fca9d254aa537ca5"
 
 [[files]]
-file = "overrides/config/voicechat/translations.properties"
+file = "config/voicechat/translations.properties"
 hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
 
 [[files]]
-file = "overrides/config/voicechat/username-cache.json"
+file = "config/voicechat/username-cache.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "overrides/config/voicechat/voicechat-client.properties"
+file = "config/voicechat/voicechat-client.properties"
 hash = "0ea8d1d90ca9b0ef3f6bfcf0bc4f23ae16db3f28142a5545a2003393b3a70476"
 
 [[files]]
-file = "overrides/config/voicechat/voicechat-server.properties"
+file = "config/voicechat/voicechat-server.properties"
 hash = "258e802e106c19bd30f3dd013b6a95469e7b6862a7f6ec17826032cf22b6edf0"
 
 [[files]]
-file = "overrides/config/voicechat/voicechat-volumes.properties"
+file = "config/voicechat/voicechat-volumes.properties"
 hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
-file = "overrides/config/waterframes-client.toml"
+file = "config/waterframes-client.toml"
 hash = "92b857b816295e0556a27fc7571cd135c05699fea099bfefe824b13898f1ea54"
 
 [[files]]
-file = "overrides/config/watermedia/custom_vlc_path.txt"
+file = "config/watermedia/custom_vlc_path.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "overrides/config/watut-client.toml"
+file = "config/watut-client.toml"
 hash = "f30aba6a74c4656d7284081651de0fbc5281e1da8daf7535dae43543959f7fdf"
 
 [[files]]
-file = "overrides/config/watut-common.toml"
+file = "config/watut-common.toml"
 hash = "17a113c1bf3c30dca221ee72b7285cf1cee3aea24fd5a48d82c47398e2eaa726"
 
 [[files]]
-file = "overrides/config/watut-item-arm-adjustments.json"
+file = "config/watut-item-arm-adjustments.json"
 hash = "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982"
 
 [[files]]
-file = "overrides/config/watut-server.toml"
+file = "config/watut-server.toml"
 hash = "690202e25181bb7ab70d0cd61cf05fa84d45117764dc3bf3498457dc13309c65"
 
 [[files]]
-file = "overrides/config/xaerominimap-common.txt"
+file = "config/xaerominimap-common.txt"
 hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
-file = "overrides/config/xaerominimap.txt"
+file = "config/xaerominimap.txt"
 hash = "71cffe7689e579cdf95700b08791f8382f9ae4e9709c5f6f4addc736f145ab3e"
 
 [[files]]
-file = "overrides/config/xaerominimap_entities.json"
+file = "config/xaerominimap_entities.json"
 hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
-file = "overrides/config/xaeropatreon.txt"
+file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "overrides/config/xaeroworldmap-common.txt"
+file = "config/xaeroworldmap-common.txt"
 hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
-file = "overrides/config/xaeroworldmap.txt"
+file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
-file = "overrides/config/zeta-common.toml"
+file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
-file = "overrides/mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar"
+file = "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar"
 hash = "87b1f5306fb54a55fcf6ad83a0505f81f613834a0e5c8e907c64d9eee108fddc"
 
 [[files]]
-file = "overrides/mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input"
+file = "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input"
 hash = "be881cc02d6d86b62cd7946b18c3510b6e3abb0e6ba559c338365945bfe0dd4b"
 
 [[files]]
-file = "overrides/mods/.index/a-man-with-plushies.pw.toml"
+file = "mods/.index/a-man-with-plushies.pw.toml"
 hash = "d50edfe633daf7b2fdd5bc4f7e4d250f80a81c677a46637c80db59d928f929b2"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/advancedperipherals.pw.toml"
+file = "mods/.index/advancedperipherals.pw.toml"
 hash = "7ef745ea1d3fa81167678f57a0d1886b2c58a68ce684fc26e018fbfc5252a277"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/advancement-plaques.pw.toml"
+file = "mods/.index/advancement-plaques.pw.toml"
 hash = "ee018e2476a51a75a46c8ae12fac7bcc3f821d001ea45ac70ceaf542a3f9bad6"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/ae2.pw.toml"
+file = "mods/.index/ae2.pw.toml"
 hash = "47abb50271c914595c2ebdacccc11737efac744080ce041df287a2eb3a0de081"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/aether-lost-content.pw.toml"
+file = "mods/.index/aether-lost-content.pw.toml"
 hash = "365784762880c507c40fa35dbb703db968dcd85029dd58eef6750b485f7cf613"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/aether-villages.pw.toml"
+file = "mods/.index/aether-villages.pw.toml"
 hash = "c6d109fb3a6ee155a012ff3349fbb6b09e456cc3c4728b0730013bd516e3c044"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/aether.pw.toml"
+file = "mods/.index/aether.pw.toml"
 hash = "2b9fef5c602f4d773f3c487bea99ac886315120453c0af761c94320b9c4dbd35"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/almost-unified.pw.toml"
+file = "mods/.index/almost-unified.pw.toml"
 hash = "74cc84044035671c14eebf954bc56414ae847aeac684f1ed4614a24afeef8826"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/amendments.pw.toml"
+file = "mods/.index/amendments.pw.toml"
 hash = "586997810831eeab5aee0b96497dd940b4fa7aa4b70934a7264d2e31169f3784"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/anthillinside.pw.toml"
+file = "mods/.index/anthillinside.pw.toml"
 hash = "4d20926d77af9b0944d11fdee3cb59c858aa67bf8d263e2f5a5d043c233023fe"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/appleskin.pw.toml"
+file = "mods/.index/appleskin.pw.toml"
 hash = "4262a12ba5868e578708260bfe2960d5a387fade20aef2f26423b21767fdb4b9"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/architectury-api.pw.toml"
+file = "mods/.index/architectury-api.pw.toml"
 hash = "8fc2033ee6c4f2ca22b54c3c3e3e31e7fb16c67a24ea55740a1a4e4d9e9b856c"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/ash-api.pw.toml"
+file = "mods/.index/ash-api.pw.toml"
 hash = "a6309a2876ccfd53163352a3911a42cc54cb8c7d9b745a9453073aed2b19eceb"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/athena-ctm.pw.toml"
+file = "mods/.index/athena-ctm.pw.toml"
 hash = "961a5970f322f5d7f9dd9c721946a435fb287d9f1f29f31db1c31220010762b8"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/attributefix.pw.toml"
+file = "mods/.index/attributefix.pw.toml"
 hash = "5c960af91196af459479a573675eceb0bf21e26a6a678cca209bf50126dd56ee"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/balm.pw.toml"
+file = "mods/.index/balm.pw.toml"
 hash = "dbce6ea5535025cc4ccb59512b05eb8a4599b9b481a95f91e9a40662414bc637"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/better-advancements.pw.toml"
+file = "mods/.index/better-advancements.pw.toml"
 hash = "59507c6e1f0d375b23690d504e6245d3850809a379448256468baa3c1d603bc0"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/better-archeology.pw.toml"
+file = "mods/.index/better-archeology.pw.toml"
 hash = "7ae711f0b33388c3bebb42608e3744a10d9cf2aa75365832378ba1e6f6007d20"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/better-compatibility-checker.pw.toml"
+file = "mods/.index/better-compatibility-checker.pw.toml"
 hash = "5236718be8affca727d964b74ce416d8380947ae1482c6aabd085999fef91dae"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/better-third-person.pw.toml"
+file = "mods/.index/better-third-person.pw.toml"
 hash = "557da674f51d6c1fca0a8a8aaf8749f9dc747d643d8b67098f303e31c6988fc2"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/better_dogs_x_doggy_talents_next.pw.toml"
+file = "mods/.index/better_dogs_x_doggy_talents_next.pw.toml"
 hash = "de90ee467d2ba628850e7637fcfe38c844236a43e6dbb9f3fd7fff17d312b394"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/betterf3.pw.toml"
+file = "mods/.index/betterf3.pw.toml"
 hash = "4be628666344246201b297e3c7df5d4b91c1fd907f3c77d1df571cd7a2aea05b"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/biomes-o-plenty.pw.toml"
+file = "mods/.index/biomes-o-plenty.pw.toml"
 hash = "645e64b2b9e822be7fb4385338a05975808b7db8df48c82113c6cfd65835200a"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/blockui.pw.toml"
+file = "mods/.index/blockui.pw.toml"
 hash = "8804e2e501da1e472d4972bee9f0cce2dabf4f49033da7ac092b1b6fe3b321ec"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/bookshelf.pw.toml"
+file = "mods/.index/bookshelf.pw.toml"
 hash = "6a388d82b91284ded271821c52919a99ae2c58158a2c898ddb23cb79beabe565"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/camera-mod.pw.toml"
+file = "mods/.index/camera-mod.pw.toml"
 hash = "2004212c4c16c6c940fac9dcfe981fda1d973c9d93c2899470b15aa11bbb9be9"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/carry-on.pw.toml"
+file = "mods/.index/carry-on.pw.toml"
 hash = "18de894fb681326851e24400d57e5a4078ff973f6e4e832edc3eb9cb0bf67362"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/casinocraft.pw.toml"
+file = "mods/.index/casinocraft.pw.toml"
 hash = "4d81a7353575a15a95002662273519c53a517fd64537db7c9916c972af0f203c"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/cc-tweaked.pw.toml"
+file = "mods/.index/cc-tweaked.pw.toml"
 hash = "e55d4fb744cbaf5144eba0ab9f13f6104755c0526267a279c7011fee82797f4f"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/chat-heads.pw.toml"
+file = "mods/.index/chat-heads.pw.toml"
 hash = "3272a19e2f3493b989f4d65421fcacfde07f038c1b86673293097a0a6dada97e"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/chest-with-legs.pw.toml"
+file = "mods/.index/chest-with-legs.pw.toml"
 hash = "13f8eb52696413e28c46b24e866a03f1d2aeb2d899334354faadf1c4e2f12fd3"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/chipped.pw.toml"
+file = "mods/.index/chipped.pw.toml"
 hash = "4e80188fd31d68161ffdffa3f553026e4f58d5cacf339e82241504e3cd039aad"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/cloth-config.pw.toml"
+file = "mods/.index/cloth-config.pw.toml"
 hash = "2f514a05e7c125ab45103504cdf86e630393f59fc850fd92d4b3a05ccdc6b49f"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/clumps.pw.toml"
+file = "mods/.index/clumps.pw.toml"
 hash = "6bc589c1bcec818820ef0ffeac5d40778b433c2a843ea62c2796c9184260eba0"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/collective.pw.toml"
+file = "mods/.index/collective.pw.toml"
 hash = "1d2fd1c8ccab3752f1b0907e36c8c4d59926755766c84752742f6fed6a5ee360"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/configured.pw.toml"
+file = "mods/.index/configured.pw.toml"
 hash = "de94db58493e8cb9f71c4df0a57e37dfc73aca51c32acb07ccd89adae8e99c8d"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/connected-glass.pw.toml"
+file = "mods/.index/connected-glass.pw.toml"
 hash = "0dc07cd61fc9108c3a9027594e7c615a7b860fea8c25e344692920060c85ddee"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/connectivity.pw.toml"
+file = "mods/.index/connectivity.pw.toml"
 hash = "9acd4e974260d3f6a1d564103e79c670236fa848f72d75dfae9a1805810333d2"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/connector.pw.toml"
+file = "mods/.index/connector.pw.toml"
 hash = "43a3d9a7554e0c1653fc446074c35871d237adb1327516a25f9b3dde962de72d"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/continuity.pw.toml"
+file = "mods/.index/continuity.pw.toml"
 hash = "ad9bbd37c3edf44bb9b103aed9e7076a45cd60ef4b75de7af17a7cc075c0c618"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/controlling.pw.toml"
+file = "mods/.index/controlling.pw.toml"
 hash = "96c84fb1d60d877ff659d0ed67b79ab3dbf5a2e7fc78daf2d654cfe36b845831"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/cooking-for-blockheads.pw.toml"
+file = "mods/.index/cooking-for-blockheads.pw.toml"
 hash = "0d24370c4ceeac05a46b1b8a8e2722c280233a2e6922f4366b873b569d365dbf"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/corail-tombstone.pw.toml"
+file = "mods/.index/corail-tombstone.pw.toml"
 hash = "efd57caa0667e75c6af8034706c428fbd27e8d4d8448b58bc342225ec2d71f77"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/coroutil.pw.toml"
+file = "mods/.index/coroutil.pw.toml"
 hash = "8676edc0ed683313aa7898ea7bd1f164deed32a03f041d7b17643367f21fb7e9"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/crafting-tweaks.pw.toml"
+file = "mods/.index/crafting-tweaks.pw.toml"
 hash = "ecfd74ee4011b1a0a4b5df78e1bc0efdf2ff6f8e9c15dfaad9324aa266d5e2f8"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/create.pw.toml"
+file = "mods/.index/create.pw.toml"
 hash = "2d6b20109bc90ec94cd7f95c254e36eae10fa415ebb26f683f9dbcf9d54b7e5a"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/creativecore.pw.toml"
+file = "mods/.index/creativecore.pw.toml"
 hash = "7d76852378d77ab00709824197d49e411d4c36ffc10d82bef300f4e4ec769093"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/creeper-overhaul.pw.toml"
+file = "mods/.index/creeper-overhaul.pw.toml"
 hash = "d2b752d4fc9485ac4d4029c967b14ac1d0005a9c7f58e69947e28db6c58d9536"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/cupboard.pw.toml"
+file = "mods/.index/cupboard.pw.toml"
 hash = "55b58eb75348293d7fd3fd4a9eb3f38ca1e3656941fa8c8079265d1d2819ae07"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/curios.pw.toml"
+file = "mods/.index/curios.pw.toml"
 hash = "1383490f768c8bcf9f396f6f1e4cfcf031415c032d4e637c08b9f15c34fb6415"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/dark-utilities.pw.toml"
+file = "mods/.index/dark-utilities.pw.toml"
 hash = "9a3168481f28c44d7b4f1658a83fc863b7ab917763ab0d03989ae3697b9eaaf5"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/darkheads.pw.toml"
+file = "mods/.index/darkheads.pw.toml"
 hash = "0c9ba4a83a97c55e5bf17f251f248993a4fa88ffafed64bf1e5d5fce22bf7947"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/distant-friends.pw.toml"
+file = "mods/.index/distant-friends.pw.toml"
 hash = "5af1b9f9308afc24aa76047a5a34f815f9e3b57b7511c9ce2eed13ed07fc4d4e"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/documents.pw.toml"
+file = "mods/.index/documents.pw.toml"
 hash = "efe1e8e923fb510fd4e9b5944cfff37f3d01de1326877e2c0fda2c1638d2eaf2"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/doggy-talents-next.pw.toml"
+file = "mods/.index/doggy-talents-next.pw.toml"
 hash = "72d1130edf0f6d88bde14477b980326d819c4c1bdc54b29c0c9d5e00fd614605"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/domum-ornamentum.pw.toml"
+file = "mods/.index/domum-ornamentum.pw.toml"
 hash = "6d3899481e7f7fd78e5002e20f781771915e705d8c423f2a0c5c179511ad71a2"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/emi.pw.toml"
+file = "mods/.index/emi.pw.toml"
 hash = "78ade45cedb2e4fe35fe5129bdf645acdab96ac3baafcde29f5032ac824382c2"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/enchantment-descriptions.pw.toml"
+file = "mods/.index/enchantment-descriptions.pw.toml"
 hash = "1fb680172d1325cb93b946499120347b427f621c6f4da3ebe1a4fe34fde3f22b"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/enderman-overhaul.pw.toml"
+file = "mods/.index/enderman-overhaul.pw.toml"
 hash = "e3110d0749ea999c33bf3b4d1c49c69f683f10a33ee070e63275433a7cf3dc2b"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/entangled.pw.toml"
+file = "mods/.index/entangled.pw.toml"
 hash = "7ae1efc57bee927c78180eebc92b6716fa7712b62f30c73e8e458021f058b3bb"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/entity-model-features.pw.toml"
+file = "mods/.index/entity-model-features.pw.toml"
 hash = "42f77752e14067d3aa5782867fd05d687062e3099def2d14c486be7fbb16c9f9"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/entitytexturefeatures.pw.toml"
+file = "mods/.index/entitytexturefeatures.pw.toml"
 hash = "9e118a227feeb752e8da97f665ebfeeaa5cdb7846eef3ab660377b08f43a3242"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/everyxdance.pw.toml"
+file = "mods/.index/everyxdance.pw.toml"
 hash = "a7d69e74e86c1986937494b5199c6f2cde5af2cba808aaf24ecdf6e69b013fb7"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/falling-leaves-forge.pw.toml"
+file = "mods/.index/falling-leaves-forge.pw.toml"
 hash = "e4e2c4e6df7ffdc0ffbcd97f387983ba4bffe335ac39581aa72e2d6e0a57698b"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/fast-async-world-save-forge-fabric.pw.toml"
+file = "mods/.index/fast-async-world-save-forge-fabric.pw.toml"
 hash = "eaf7297340d27d82fb7408c7a105e31e4d360797ee89647c5d7ba4e578dd8565"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/fastfurnace.pw.toml"
+file = "mods/.index/fastfurnace.pw.toml"
 hash = "a237011e1d46f619c391ceb903b50f1ff5e96f918434c307c791857693016449"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/fastworkbench.pw.toml"
+file = "mods/.index/fastworkbench.pw.toml"
 hash = "cf20cc4d9785e13b45775fbf6a366027f252bc50e0fe8c1465357a8b45880548"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/fcl.pw.toml"
+file = "mods/.index/fcl.pw.toml"
 hash = "f1cc2a03545ca36974620d8372061e959fdc5c15c8fbe1a1e38df8132c17d0d1"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/ferrite-core.pw.toml"
+file = "mods/.index/ferrite-core.pw.toml"
 hash = "b2c9813c936a2ee8a4ef1d54e761889aa425befec99448df8fd91f5518e3d9ad"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/forgified-fabric-api.pw.toml"
+file = "mods/.index/forgified-fabric-api.pw.toml"
 hash = "55b7bd8957fed675512a09ca85447d805059c0c7c20eb780225f3be505cd075f"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/from-the-fog.pw.toml"
+file = "mods/.index/from-the-fog.pw.toml"
 hash = "b199bdef774991977bf2bb2031355197cbaed80a045d502487cc4b4bbd884399"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/fusion-connected-textures.pw.toml"
+file = "mods/.index/fusion-connected-textures.pw.toml"
 hash = "675fad34fb1177cb5883f2bec02b250d3a633e95127ba26a6e6341af92c92675"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/geckolib.pw.toml"
+file = "mods/.index/geckolib.pw.toml"
 hash = "f79076d60af9000c7e0394a7213db9ad547098a3caf043867134bc48bb824c8e"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/glitchcore.pw.toml"
+file = "mods/.index/glitchcore.pw.toml"
 hash = "3b5fa65b2df8b26c45643ca5d860e995f8c3b6500be3bdf09c99aedc335e0670"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/hologram-panel.pw.toml"
+file = "mods/.index/hologram-panel.pw.toml"
 hash = "cf81b8db1788d1ca9c0dd3c1e41a67a1b2611f5472fb3524b80e43c976afa821"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/horror-elements-mod.pw.toml"
+file = "mods/.index/horror-elements-mod.pw.toml"
 hash = "2d39dc9eb8f14c831d012bd92c047f18345c53e421f75971b02d0210239afcbf"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/hyperbox.pw.toml"
+file = "mods/.index/hyperbox.pw.toml"
 hash = "0056a2c0bd02005b31b82b6588aa7ab53baf092bf892f5462c05104576de5b0c"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/iceberg.pw.toml"
+file = "mods/.index/iceberg.pw.toml"
 hash = "0316104e0cf064161a52957dbd222d117486f8e0a63abb285499ecacc1afa47b"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/immediatelyfast.pw.toml"
+file = "mods/.index/immediatelyfast.pw.toml"
 hash = "f8b874c16fb13fe308ff0d5815346aded63640053d8c213590548b3f84d79317"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/immersive-engineering.pw.toml"
+file = "mods/.index/immersive-engineering.pw.toml"
 hash = "a4e9fd1e7f636f7e97250f4db3c60c51bd6ae7c785d56d6552a6da8c37910156"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/immersive-melodies.pw.toml"
+file = "mods/.index/immersive-melodies.pw.toml"
 hash = "9e7c8234f3777eaada9a0bdb7e2cd78f60df514643d59f87647a2e43cf9514c7"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/iron-chests.pw.toml"
+file = "mods/.index/iron-chests.pw.toml"
 hash = "c7b2379884f6177d30ef6f6dc7e82b690e4e651afaf5507dd623469828b730c6"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/item-highlighter.pw.toml"
+file = "mods/.index/item-highlighter.pw.toml"
 hash = "c5c56a935983888340cd3615214961fd14cd98f5206fb27c6b800baa7b69690d"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/jade.pw.toml"
+file = "mods/.index/jade.pw.toml"
 hash = "780c150efe4ba2ee49f93831b3a6a1248880656fee64dc87104da44c4f3501e7"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/journeymap.pw.toml"
+file = "mods/.index/journeymap.pw.toml"
 hash = "bec59f4dc5040c4c5a727c44bc2f3af3772e0129e93ca7684fe1a4ce82dc424e"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/lmft.pw.toml"
+file = "mods/.index/lmft.pw.toml"
 hash = "88f1732ddf90805530e59dbabe428efd770fb429cf4c824afacb307264fc0ef1"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/loot-integrations.pw.toml"
+file = "mods/.index/loot-integrations.pw.toml"
 hash = "7536b2effd09b65fc8e9553831420f700dd0303d7b3eb777b7e873c0c2a9778c"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/lootr.pw.toml"
+file = "mods/.index/lootr.pw.toml"
 hash = "8e30b35b3a7bc786b72b3762f0a498f69cfc505f86088789f4709d569ad10756"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/lucky77.pw.toml"
+file = "mods/.index/lucky77.pw.toml"
 hash = "4f7fa4645ea9395ec15e87d719fb51f1f464f2d4d1e19e868e5c3a7fe2340666"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/make_bubbles_pop.pw.toml"
+file = "mods/.index/make_bubbles_pop.pw.toml"
 hash = "0e2dc29c0f22096aaa3db56459f6386afef11a160d4f3ad64d66b93d637a855d"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/memoryleakfix.pw.toml"
+file = "mods/.index/memoryleakfix.pw.toml"
 hash = "cb101c29fc90fb63abf3c06cf8f49caed8dd358814a21cef9e35e99484856128"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/minecolonies.pw.toml"
+file = "mods/.index/minecolonies.pw.toml"
 hash = "3355052de49f4e080ce8b6bff101f6924142d607c4e8727921fed5766066d735"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/modernfix.pw.toml"
+file = "mods/.index/modernfix.pw.toml"
 hash = "0ffeb1d266cec9193d677cf88c8ac82311826093f45e3955e832d14882e52292"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/moonlight.pw.toml"
+file = "mods/.index/moonlight.pw.toml"
 hash = "fbb2a1cd2b8193befc03ce06fa671f0de23739816061732733eca56b33240dbd"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/mouse-tweaks.pw.toml"
+file = "mods/.index/mouse-tweaks.pw.toml"
 hash = "55c6e77c7af3b55f1846889e47e3e025ca3add164dab9e1e879c2c12d1a90275"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/moyai.pw.toml"
+file = "mods/.index/moyai.pw.toml"
 hash = "bd35a521a41c21bdfe332c80711830b7a4d51da7ba15fd74fed75609f71a84e6"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/multi-piston.pw.toml"
+file = "mods/.index/multi-piston.pw.toml"
 hash = "34ca6848d5bb381aca57e8518026d101fdf1ec5c370da59e4e0b391ad26e360a"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/mystical-oak-tree.pw.toml"
+file = "mods/.index/mystical-oak-tree.pw.toml"
 hash = "5ffc84e909d2a9e9a1288c01ae2708782fde79f08e9a8b19f7bd9566324f68c9"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/netherportalfix.pw.toml"
+file = "mods/.index/netherportalfix.pw.toml"
 hash = "8c032068e3c2c73c1902b1f2ddc89bf06bca4b970fdbc85a1cc469aaf5434402"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/notenoughcrashes.pw.toml"
+file = "mods/.index/notenoughcrashes.pw.toml"
 hash = "93f2714275dca33c4bcd00869e068c98c4aad13a333d9d9df05ca2293da17d9a"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/packet-fixer.pw.toml"
+file = "mods/.index/packet-fixer.pw.toml"
 hash = "bf5c8ffbe58eac0e91a2206cb70c386f9d29cbba61377a0f9c25ac4e484262ad"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/pehkui.pw.toml"
+file = "mods/.index/pehkui.pw.toml"
 hash = "5e96ff3a44060b48058d52143ef7417fd1356133bf0d3ac3c8003b559145ea4e"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/pig-pen-cipher.pw.toml"
+file = "mods/.index/pig-pen-cipher.pw.toml"
 hash = "37187b5dd868bc58560b9a9c23836745cfec9520cff0af6a97ac980c9c916a3d"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/placebo.pw.toml"
+file = "mods/.index/placebo.pw.toml"
 hash = "1365a934764f3a7c415164fa95b5fd5df540d103b3a93b11a64477abe2ecd1ae"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/player-companions.pw.toml"
+file = "mods/.index/player-companions.pw.toml"
 hash = "1115b96e1d85d625f5cd61c768e9cb2993ee4b52c1199c5cd9baa65b1871b0c0"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/plenty-plates.pw.toml"
+file = "mods/.index/plenty-plates.pw.toml"
 hash = "c3192ee8a8cb58231570fe90989b2df018a5dcdd7437dd7a3f4d521d5bf506b5"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/polymorph.pw.toml"
+file = "mods/.index/polymorph.pw.toml"
 hash = "a08f362e037f0d2276e871d1054a78da05730b32744d3f39bc175e4d3fa6e3b5"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/ponified.pw.toml"
+file = "mods/.index/ponified.pw.toml"
 hash = "d3c695accf7103a570023babce31ddf251cfa7f7b69e69895b77029188bba14d"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/puzzles-lib.pw.toml"
+file = "mods/.index/puzzles-lib.pw.toml"
 hash = "4a4106144d10c93be468463b5f4da8dc775f5d595d6b4f24cda54eb63aab76bc"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/quark.pw.toml"
+file = "mods/.index/quark.pw.toml"
 hash = "f422d7083d736b769180d4b32381369ceb1a86340420d749816a786827b62428"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/rechiseled.pw.toml"
+file = "mods/.index/rechiseled.pw.toml"
 hash = "1bf3970b97e846f8daaa3bab3707f5eaf73f16eb619e0d96fe039a9fbac64e5d"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/redstone-cascade.pw.toml"
+file = "mods/.index/redstone-cascade.pw.toml"
 hash = "580566e48e20b5a538def2036844ead5dda1cd8c17dc2f72f1f00dd44c7fa8ae"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/redstonepen.pw.toml"
+file = "mods/.index/redstonepen.pw.toml"
 hash = "758ddbdd384b21c5c90708b9a1e0c7d9713846c7d1bd5bdd0123115d5fc6f35f"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/resourceful-config.pw.toml"
+file = "mods/.index/resourceful-config.pw.toml"
 hash = "11226619e2e42655f7491e378f20aeb98341e160866bed44886e651b1d11cb7a"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/resourceful-lib.pw.toml"
+file = "mods/.index/resourceful-lib.pw.toml"
 hash = "13585b49c3377716494f7a65bf5031cfe66a5059bdba0eafe6ad4158df6cb7de"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/runelic.pw.toml"
+file = "mods/.index/runelic.pw.toml"
 hash = "85cc6f91f2e6f71b4323756cf924de17725c943250e82e17f4bc49733aa15b67"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/searchables.pw.toml"
+file = "mods/.index/searchables.pw.toml"
 hash = "115ab3c890dd7d9441a6290e56f658926681038cf4e7b863542c20213b23ee20"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/security-craft.pw.toml"
+file = "mods/.index/security-craft.pw.toml"
 hash = "d7b2ea911c0ba9feab6f79f837109b699d07c2228d81c09da49e32a81ed6586d"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/serene-seasons.pw.toml"
+file = "mods/.index/serene-seasons.pw.toml"
 hash = "2c3b8bf105b91fc100649434256faf9fed86d2f527206bc7532c1a9d4ab90d07"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/simple-shops-fix.pw.toml"
+file = "mods/.index/simple-shops-fix.pw.toml"
 hash = "d6ba13413eb64fc2d5030da72bcbe138d8aa89c21ff89bdc952940611c3955b4"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/simple-shops.pw.toml"
+file = "mods/.index/simple-shops.pw.toml"
 hash = "e5e1f833ca5263adc478b6ff04a1c0c88755feb74c0c6483a3e932ddbeca3d75"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/simple-voice-chat.pw.toml"
+file = "mods/.index/simple-voice-chat.pw.toml"
 hash = "b9bb002a808e7e045833ac7407b6a02d2e9f6584a4e86638f7bfcdcd191c096c"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/smooth-chunk-save.pw.toml"
+file = "mods/.index/smooth-chunk-save.pw.toml"
 hash = "0fd56d1eec5ca547526c2fa758328c1204c2851ebb6d2c4ad371631701545148"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/smooth-swapping-forge-updated.pw.toml"
+file = "mods/.index/smooth-swapping-forge-updated.pw.toml"
 hash = "4510beb03cf0f0ea50bf8b787bd09e1c8e22af9c027a22c8a41b34ce00599753"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/sound-physics-remastered.pw.toml"
+file = "mods/.index/sound-physics-remastered.pw.toml"
 hash = "570b6ddb5741aeb1fbf1e3e2c78ee684c6bb9c82c589d2b37b86d61c58563544"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/spawn-animations-compats.pw.toml"
+file = "mods/.index/spawn-animations-compats.pw.toml"
 hash = "2b6a920646457620a15399c83977cc9707d482947040631c7c6d4727fbacd229"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/spawn-animations.pw.toml"
+file = "mods/.index/spawn-animations.pw.toml"
 hash = "c22573ed4be3d84daaa471cdf41bd06470083573898ef41e7a58086676d9e990"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/storage-drawers.pw.toml"
+file = "mods/.index/storage-drawers.pw.toml"
 hash = "d211b8e11aef86c46c378e71b2bc352fcfb735956ad79aac4b285e22b4581fb5"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/structure-essentials-forge-fabric.pw.toml"
+file = "mods/.index/structure-essentials-forge-fabric.pw.toml"
 hash = "766a7ba7d20deaff76abc6990ccbe739418affce75a2840a86ef5308c2418212"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/structure-gel-api.pw.toml"
+file = "mods/.index/structure-gel-api.pw.toml"
 hash = "1d2f8503b3fab39ba7ca7c14729c4b99762117ad956be381e01cf95d0eb5a776"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/structurize.pw.toml"
+file = "mods/.index/structurize.pw.toml"
 hash = "f0aeb4d90615aa2c766b0c2cd609980673b4bb1c0b319b40d6c4e754f667b72d"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/superb-warfare.pw.toml"
+file = "mods/.index/superb-warfare.pw.toml"
 hash = "2a0923e0be785104e72b67321667237f7175aee05a2220948677b2341ce7bb32"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/supermartijn642s-config-lib.pw.toml"
+file = "mods/.index/supermartijn642s-config-lib.pw.toml"
 hash = "e95bcf04aa210ad4f24c1f1f4a4b759da08768c058740e2d47cba72df6aa814c"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/supermartijn642s-core-lib.pw.toml"
+file = "mods/.index/supermartijn642s-core-lib.pw.toml"
 hash = "8a6ed6d285102791ee72cc93c6fadc2d85c6c76ffd98b04d5ecc32078b12642d"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/supplementaries-squared.pw.toml"
+file = "mods/.index/supplementaries-squared.pw.toml"
 hash = "c418c5626c8d437274b47c85a924119e95553ea330e5d1d1acabcfd9f28cd5cc"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/supplementaries.pw.toml"
+file = "mods/.index/supplementaries.pw.toml"
 hash = "554edf5cd16a5b7c0c5342242e325b44911ebfe05a5238b4f7e3f3d9887b7a64"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/terrablender.pw.toml"
+file = "mods/.index/terrablender.pw.toml"
 hash = "a49dc66bf8ae917c763c38030a2d2427605c9b97de98949ad51dc584ae600cdd"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/the-doppelganger.pw.toml"
+file = "mods/.index/the-doppelganger.pw.toml"
 hash = "a6cd59d6d2a2472637bf56d12396a82eb5b3f7697f52d1d9a9753421dde351f9"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/the-fnaf-plushie-mod.pw.toml"
+file = "mods/.index/the-fnaf-plushie-mod.pw.toml"
 hash = "0a5ec82ebcc55d859c886afaeb7b0044af3b6d07544445115c90a9591e79dda7"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/the-twilight-forest.pw.toml"
+file = "mods/.index/the-twilight-forest.pw.toml"
 hash = "eab20a56ae188aa321e958b0f6fca49974a6017b20f90b0a675d11f4aaff2cf4"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/tiny-redstone.pw.toml"
+file = "mods/.index/tiny-redstone.pw.toml"
 hash = "174668bc1bc3f2b56a4b5bbe3a8cb0cadcaa323be6555cbabd444dee167287d3"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/towntalk.pw.toml"
+file = "mods/.index/towntalk.pw.toml"
 hash = "da8bd4f9c26e4a911259022ff3568399b8d7a3897c3e44fc9e03d71b6718cd1d"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/transparent.pw.toml"
+file = "mods/.index/transparent.pw.toml"
 hash = "59c2d4fe5935158e4fb4a370a55b259a56440090873a1a1ab7e415184d9f1d2d"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/villager-names.pw.toml"
+file = "mods/.index/villager-names.pw.toml"
 hash = "5400e58bbbc082537472ec52cb2f36cfd271b2137832680647f5f74f17acdad1"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/visual-workbench.pw.toml"
+file = "mods/.index/visual-workbench.pw.toml"
 hash = "bd6615fdb1f9243b7102a44f9b45a74fda9811331b9e7cbe5928761e293ff299"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/waterframes.pw.toml"
+file = "mods/.index/waterframes.pw.toml"
 hash = "2676d28a360449057b1cc8041b32f69533141f8060abddcdcc78520e38b85505"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/watermedia.pw.toml"
+file = "mods/.index/watermedia.pw.toml"
 hash = "5edb800abb4c4a96a0a77348c1508622048df6de40a3bca6f207097c87ef55c9"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/what-are-they-up-to.pw.toml"
+file = "mods/.index/what-are-they-up-to.pw.toml"
 hash = "f80060d68fd2fe4a96ff302cf696815dfbc182fbfc2a04e8aebfe23b0c787289"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/when-dungeons-arise.pw.toml"
+file = "mods/.index/when-dungeons-arise.pw.toml"
 hash = "21e0921db9608cf527a1b1b7b004fd7140de1348f4f9ce99ffda6b4c5066b354"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/wits.pw.toml"
+file = "mods/.index/wits.pw.toml"
 hash = "e7067d2f75bd6cd86e777112b589537d6181155e7cb43d54c11a5ba7272a87a6"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/yungs-api.pw.toml"
+file = "mods/.index/yungs-api.pw.toml"
 hash = "9402a84dad0b966c99c3ec3d1b0554d85e719532d632c4fd7b543077413f4ed6"
 metafile = true
 
 [[files]]
-file = "overrides/mods/.index/zeta.pw.toml"
+file = "mods/.index/zeta.pw.toml"
 hash = "ddf7cfe70ed3fc1c41121f5e96fa6d18aa8978211e9d072843c392680b429bd4"
 metafile = true
 
 [[files]]
-file = "overrides/mods/AdvancedPeripherals-1.20.1-0.7.41r.jar"
+file = "mods/AdvancedPeripherals-1.20.1-0.7.41r.jar"
 hash = "0c44d1b94df5a47d8f174c8627ec51b9e4c3449836891196683cbde4f481e02c"
 
 [[files]]
-file = "overrides/mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar"
+file = "mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar"
 hash = "537f84f1153369d61878965846a8ead7c5eae3a6ad917b04c02521ad76182ad2"
 
 [[files]]
-file = "overrides/mods/AetherVillages-1.20.1-1.0.6-forge.jar"
+file = "mods/AetherVillages-1.20.1-1.0.6-forge.jar"
 hash = "451868e10bfc10796c8ba8926f4315118fa5a87daf8fd88dc37734778dded28f"
 
 [[files]]
-file = "overrides/mods/AttributeFix-Forge-1.20.1-21.0.4.jar"
+file = "mods/AttributeFix-Forge-1.20.1-21.0.4.jar"
 hash = "5d8cc8928ce480288d5b504663bb13104df56ac72ce5bf36f2743ec27c701112"
 
 [[files]]
-file = "overrides/mods/BetterAdvancements-NeoForge-1.20.1-0.4.2.25.jar"
+file = "mods/BetterAdvancements-NeoForge-1.20.1-0.4.2.25.jar"
 hash = "670505f3eb23652e94068269448ddc64b491ab398c35f430affc3ede1c19b391"
 
 [[files]]
-file = "overrides/mods/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar"
+file = "mods/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar"
 hash = "71ecffc7c33ae896d9299f392db11bd50027c2dcbd8b16593fa6b6a6a4018502"
 
 [[files]]
-file = "overrides/mods/BetterF3-7.0.2-Forge-1.20.1.jar"
+file = "mods/BetterF3-7.0.2-Forge-1.20.1.jar"
 hash = "e46ced73bdf78a59573a7188cfbe7256353f21a67eef752dc39b5e5816fc61c0"
 
 [[files]]
-file = "overrides/mods/BetterThirdPerson-Forge-1.20-1.9.0.jar"
+file = "mods/BetterThirdPerson-Forge-1.20-1.9.0.jar"
 hash = "e8b575996cc5ff40e010161cca8923b8367ce210999da7f00487d4ce0de63755"
 
 [[files]]
-file = "overrides/mods/Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Forge] - [1.20-1.20.1].jar"
+file = "mods/Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Forge] - [1.20-1.20.1].jar"
 hash = "f2d880b56586ef64f8acc00513365b2ed8bc3976987b93f6aa7c4b2a4eb78882"
 
 [[files]]
-file = "overrides/mods/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar"
+file = "mods/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar"
 hash = "330f482487ac3135557b6e898d7e1ae5330321e9cfd5ba63e13a16cf2e8d8b98"
 
 [[files]]
-file = "overrides/mods/Bookshelf-Forge-1.20.1-20.2.13.jar"
+file = "mods/Bookshelf-Forge-1.20.1-20.2.13.jar"
 hash = "c31fed2c1a1c0d72d3ef996bb84521b7d6a8fbd3115c89c001f13a7ffd56f64b"
 
 [[files]]
-file = "overrides/mods/CasinoCraft_1.20.1_v25.jar"
+file = "mods/CasinoCraft_1.20.1_v25.jar"
 hash = "470aede4e24e074c29637fe92ae822aa0f71d787f62e7c352f4c647632ef6a16"
 
 [[files]]
-file = "overrides/mods/Clumps-forge-1.20.1-12.0.0.4.jar"
+file = "mods/Clumps-forge-1.20.1-12.0.0.4.jar"
 hash = "8af01712c0dc32cebaff31795ca6d223fddff2ea9b1f5efbd9c3a586a0dacbc0"
 
 [[files]]
-file = "overrides/mods/Connector-1.0.0-beta.46+1.20.1.jar"
+file = "mods/Connector-1.0.0-beta.46+1.20.1.jar"
 hash = "79d58fd7ced77df600eefc927adbbd8e217c2d6b0778c17aa8b27756703145ac"
 
 [[files]]
-file = "overrides/mods/Controlling-forge-1.20.1-12.0.2.jar"
+file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
 hash = "cff8c3426a77f9e7412262b6d79e423979eff3831e010b3b1ea9677e1ecd74cd"
 
 [[files]]
-file = "overrides/mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar"
+file = "mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar"
 hash = "3d2271f7d9d2e32fca46d19f3b6ab4372d30e0ea3eb26c809c23366e8d503e16"
 
 [[files]]
-file = "overrides/mods/DarkUtilities-Forge-1.20.1-17.0.5.jar"
+file = "mods/DarkUtilities-Forge-1.20.1-17.0.5.jar"
 hash = "d430dfa2f0f250ec3d64ff65f4a8d0fcade1973fee717337dde515e514f7ae4b"
 
 [[files]]
-file = "overrides/mods/DistantFriends-forge-1.20.1-0.5.5.jar"
+file = "mods/DistantFriends-forge-1.20.1-0.5.5.jar"
 hash = "b356b15f2511f168c8ab35b0b814e8b8c90a1344b19879e44ccedd17d8c71f27"
 
 [[files]]
-file = "overrides/mods/DoggyTalentsNext-1.20.1-1.18.45.jar"
+file = "mods/DoggyTalentsNext-1.20.1-1.18.45.jar"
 hash = "3b9d6c8518ca028c37fec31f85e32a1b4457320a663999336362c67622bbab7c"
 
 [[files]]
-file = "overrides/mods/Doppelganger_V7_forge_1.20.1.jar"
+file = "mods/Doppelganger_V7_forge_1.20.1.jar"
 hash = "bccd024fa3c77b795ff660541cc5cc4b26070b99209499c1a500c221ee3909ed"
 
 [[files]]
-file = "overrides/mods/DungeonsArise-1.20.1-2.1.57-release.jar"
+file = "mods/DungeonsArise-1.20.1-2.1.57-release.jar"
 hash = "26c12f489af79026bf41c7dbe67f8258c28871a0ab07ee8d6d43d0350e0b5983"
 
 [[files]]
-file = "overrides/mods/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar"
+file = "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar"
 hash = "d8501371240082c3436c03380f7a59820fd981e9c5d9fb2978a222ea114b23ae"
 
 [[files]]
-file = "overrides/mods/FastFurnace-1.20.1-8.0.2.jar"
+file = "mods/FastFurnace-1.20.1-8.0.2.jar"
 hash = "970c11c090e7a364e2e006aabb5e573f79901e710e97195334ee5802317776e8"
 
 [[files]]
-file = "overrides/mods/FastWorkbench-1.20.1-8.0.4.jar"
+file = "mods/FastWorkbench-1.20.1-8.0.4.jar"
 hash = "86d20c6879bf86ef76b3fd94998d3e5c3327acb5d5324b6eb0b5348354766620"
 
 [[files]]
-file = "overrides/mods/Fnaf Plushie Remastered October 29th.jar"
+file = "mods/Fnaf Plushie Remastered October 29th.jar"
 hash = "327ac6301f23853dd452b0d937abee13dc1a042b2220ce34c80f603f7a68cb4c"
 
 [[files]]
-file = "overrides/mods/From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar"
+file = "mods/From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar"
 hash = "385bddf654c6edefd35cd7f47ce7dffff0610d29ed9efd49927f488dec919fb1"
 
 [[files]]
-file = "overrides/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+file = "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
 hash = "e42a8b513da08a910c133caeafad9fc2fcc22fdaaa2eb3e2516e9112a5a0db61"
 
 [[files]]
-file = "overrides/mods/Highlighter-1.20.1-forge-1.1.9.jar"
+file = "mods/Highlighter-1.20.1-forge-1.1.9.jar"
 hash = "8389c409257541c06789cd2287725d3df173168d9a0ebb9ff44c9b319e8b8026"
 
 [[files]]
-file = "overrides/mods/Iceberg-1.20.1-forge-1.1.25.jar"
+file = "mods/Iceberg-1.20.1-forge-1.1.25.jar"
 hash = "91ad6b459e0c7a16a9f3dc90230248a696600ceec6646aa23263559b8648dbc3"
 
 [[files]]
-file = "overrides/mods/ImmediatelyFast-Forge-1.5.0+1.20.4.jar"
+file = "mods/ImmediatelyFast-Forge-1.5.0+1.20.4.jar"
 hash = "d605d50890b17ef8b580106161f3cc1941f332555e775e1f4985e906ce2bd768"
 
 [[files]]
-file = "overrides/mods/ImmersiveEngineering-1.20.1-10.2.0-183.jar"
+file = "mods/ImmersiveEngineering-1.20.1-10.2.0-183.jar"
 hash = "061dd0e8e066dc39277736d5607a47a18fee4aff428de3363882f96e5c405aaa"
 
 [[files]]
-file = "overrides/mods/Jade-1.20.1-Forge-11.13.1.jar"
+file = "mods/Jade-1.20.1-Forge-11.13.1.jar"
 hash = "921996fef486fdc0d03d3e9574698243edb380e118aaa6a59dccd55b1776b32f"
 
 [[files]]
-file = "overrides/mods/Lucky77_1.20.1_v04.jar"
+file = "mods/Lucky77_1.20.1_v04.jar"
 hash = "dc3fd253e7bb2b4f8dc90aa27aa8c74176e49d46dcb26c6ca5c291c769201b98"
 
 [[files]]
-file = "overrides/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
+file = "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
 hash = "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08"
 
 [[files]]
-file = "overrides/mods/Pehkui-3.8.2+1.20.1-forge.jar"
+file = "mods/Pehkui-3.8.2+1.20.1-forge.jar"
 hash = "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc"
 
 [[files]]
-file = "overrides/mods/PigPen-Forge-1.20.1-15.0.2.jar"
+file = "mods/PigPen-Forge-1.20.1-15.0.2.jar"
 hash = "f5840fc095db6e5f1dd02dd72ad59e2ae3e88384f56fec0978f693241d92e86c"
 
 [[files]]
-file = "overrides/mods/Placebo-1.20.1-8.6.3.jar"
+file = "mods/Placebo-1.20.1-8.6.3.jar"
 hash = "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571"
 
 [[files]]
-file = "overrides/mods/PlentyPlates-v8.0.0-1.20.1-Forge.jar"
+file = "mods/PlentyPlates-v8.0.0-1.20.1-Forge.jar"
 hash = "3523424e0ffd05349f923bb5dc2ad72ab948813f79d6d72a74e84c07db9b5a1a"
 
 [[files]]
-file = "overrides/mods/PuzzlesLib-v8.1.32-1.20.1-Forge.jar"
+file = "mods/PuzzlesLib-v8.1.32-1.20.1-Forge.jar"
 hash = "614741d2c4eeac0f01ceba8e6d0bbd134e2a501edf93a958da78e700933a8490"
 
 [[files]]
-file = "overrides/mods/Quark-4.0-462.jar"
+file = "mods/Quark-4.0-462.jar"
 hash = "c90b96f049d92825c4a103721988c80d72e5ad380d17be46a0f53e114874c478"
 
 [[files]]
-file = "overrides/mods/Runelic-Forge-1.20.1-18.0.2.jar"
+file = "mods/Runelic-Forge-1.20.1-18.0.2.jar"
 hash = "ae24744fbb329e72713c15308f54295dee03515f95b5bd615e0945edf5b5111d"
 
 [[files]]
-file = "overrides/mods/Searchables-forge-1.20.1-1.0.3.jar"
+file = "mods/Searchables-forge-1.20.1-1.0.3.jar"
 hash = "461add180eb595004d3c9f5ac0ce337752e403077f96b38304800eadf01fb825"
 
 [[files]]
-file = "overrides/mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar"
+file = "mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar"
 hash = "c4f1b6bcbd2c4fd8c54866cc217f455d2e8262e35ac218f8fb628c79bc76ff8e"
 
 [[files]]
-file = "overrides/mods/StorageDrawers-1.20.1-12.9.13.jar"
+file = "mods/StorageDrawers-1.20.1-12.9.13.jar"
 hash = "f7d0df800bf13399c8d9e3b04d5723ed8468aca68224f4fb2133ac55bb4313a0"
 
 [[files]]
-file = "overrides/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+file = "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
 hash = "c109016f46ca9bdae69976bf080bbf2e8e5968cb66c0a78845f8ca6af5dbbeb1"
 
 [[files]]
-file = "overrides/mods/VisualWorkbench-v8.0.0-1.20.1-Forge.jar"
+file = "mods/VisualWorkbench-v8.0.0-1.20.1-Forge.jar"
 hash = "5d0a2bba205c5a62c66ea104dab1ee48fd29b7632cd5303cc59bbd2c2159c1c0"
 
 [[files]]
-file = "overrides/mods/YungsApi-1.20-Forge-4.0.6.jar"
+file = "mods/YungsApi-1.20-Forge-4.0.6.jar"
 hash = "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1"
 
 [[files]]
-file = "overrides/mods/Zeta-1.0-30.jar"
+file = "mods/Zeta-1.0-30.jar"
 hash = "7b68e166061c6ea0a8ac1585b0ae222f12bdd350728f3d797b520c1e915a310b"
 
 [[files]]
-file = "overrides/mods/[1.20.1] SecurityCraft v1.9.12.jar"
+file = "mods/[1.20.1] SecurityCraft v1.9.12.jar"
 hash = "4f749406931e71b2d5cb005e8ccf795806d89e0dd4029724308e0cc72f3b5ae3"
 
 [[files]]
-file = "overrides/mods/aether-1.20.1-1.5.2-neoforge.jar"
+file = "mods/aether-1.20.1-1.5.2-neoforge.jar"
 hash = "b6b586eb6fdc9ce4b3645cab43642ba87817c5deadef4d87ab884e4fe20ef282"
 
 [[files]]
-file = "overrides/mods/almostunified-forge-1.20.1-0.9.4.jar"
+file = "mods/almostunified-forge-1.20.1-0.9.4.jar"
 hash = "bd9f014d5de7bf98e1433c948758f8f0c0c16d21658a80fb61b3db5bf1afca7b"
 
 [[files]]
-file = "overrides/mods/amendments-1.20-1.2.19.jar"
+file = "mods/amendments-1.20-1.2.19.jar"
 hash = "f0e399a37a4d4a1bac1c4e3cd3feeacd760d049b53f7cc4d5f728f5dfd53fe0a"
 
 [[files]]
-file = "overrides/mods/amwplushies-forge-1.20.1-4.3.0.jar"
+file = "mods/amwplushies-forge-1.20.1-4.3.0.jar"
 hash = "69f5552595b01d605f205c9399181cb42f69088d44ebc20529d628c4a45342d3"
 
 [[files]]
-file = "overrides/mods/anthillinside-1.20.1-neoforge-1.4.24.jar"
+file = "mods/anthillinside-1.20.1-neoforge-1.4.24.jar"
 hash = "cbe729381413ef9021e747652e76f4a52a94a40327477d115f7b63d9f58bad45"
 
 [[files]]
-file = "overrides/mods/appleskin-forge-mc1.20.1-2.5.1.jar"
+file = "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
 hash = "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
 
 [[files]]
-file = "overrides/mods/appliedenergistics2-forge-15.3.4.jar"
+file = "mods/appliedenergistics2-forge-15.3.4.jar"
 hash = "906bfc38d6c90840c552c61da88d6592ecbd264e837b091f25ddeb7b08916b84"
 
 [[files]]
-file = "overrides/mods/architectury-9.2.14-forge.jar"
+file = "mods/architectury-9.2.14-forge.jar"
 hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
 
 [[files]]
-file = "overrides/mods/ash_api-forge-3.0.2+1.20.1.jar"
+file = "mods/ash_api-forge-3.0.2+1.20.1.jar"
 hash = "e73de2063adddb8fc83baa7bf4afea6df49e36ab52fe92024e7e0a0242a46c8a"
 
 [[files]]
-file = "overrides/mods/athena-forge-1.20.1-3.1.2.jar"
+file = "mods/athena-forge-1.20.1-3.1.2.jar"
 hash = "64eec9cffb8847a459536096ac396b135ffb07c7d9d13c6a47d9cd7b251276ab"
 
 [[files]]
-file = "overrides/mods/balm-forge-1.20.1-7.3.27-all.jar"
+file = "mods/balm-forge-1.20.1-7.3.27-all.jar"
 hash = "186fafcb94a1d93847f84ab89d63d2e20ec0fd748f79acc0cec7d6abb371b204"
 
 [[files]]
-file = "overrides/mods/betterarcheology-1.2.1-1.20.1.jar"
+file = "mods/betterarcheology-1.2.1-1.20.1.jar"
 hash = "4180f72ec4b69690ec160ac50e48c087f0fe7c98681dcd1f70d82ed5cbfeec9e"
 
 [[files]]
-file = "overrides/mods/blockui-1.20.1-1.0.190-snapshot.jar"
+file = "mods/blockui-1.20.1-1.0.190-snapshot.jar"
 hash = "b6ed0fbf31f7351d6ad151a01c507a3d51e405f09bf2e2a46cb528fcdcf96a96"
 
 [[files]]
-file = "overrides/mods/callofequestria-0.2-1.20.1.jar"
+file = "mods/callofequestria-0.2-1.20.1.jar"
 hash = "e7a3d15adeb39131ffaadf9013a4cda4583e82ce826fc3603fed1c0a8c3da0cd"
 
 [[files]]
-file = "overrides/mods/camera-forge-1.20.1-1.0.19.jar"
+file = "mods/camera-forge-1.20.1-1.0.19.jar"
 hash = "4fc34cd870ffce2d4a52957028ef6d8211be45d99f11558bdec95ce869c266f8"
 
 [[files]]
-file = "overrides/mods/carryon-forge-1.20.1-2.1.2.7.jar"
+file = "mods/carryon-forge-1.20.1-2.1.2.7.jar"
 hash = "d7470921fc5ff988788d43409083f62478aecc91f4b81d7e6b63c80c933d4613"
 
 [[files]]
-file = "overrides/mods/cc-tweaked-1.20.1-forge-1.115.1.jar"
+file = "mods/cc-tweaked-1.20.1-forge-1.115.1.jar"
 hash = "21d84f2d7052a9acce9c8108c792db7961f3182d0add78617bc94752b0f93185"
 
 [[files]]
-file = "overrides/mods/chat_heads-0.13.17-forge-1.20.jar"
+file = "mods/chat_heads-0.13.17-forge-1.20.jar"
 hash = "38a78408a95add0fe7c4d9435a9ef872ff13dad27fb3771c594a65331faf19b4"
 
 [[files]]
-file = "overrides/mods/chest_with_legs-1.5.2-forge-1.20.1.jar"
+file = "mods/chest_with_legs-1.5.2-forge-1.20.1.jar"
 hash = "b3c847c5838f02265ea4ed0900a5cf675a87d169be3c103de03c6a11fb51ec82"
 
 [[files]]
-file = "overrides/mods/chipped-forge-1.20.1-3.0.7.jar"
+file = "mods/chipped-forge-1.20.1-3.0.7.jar"
 hash = "300e02535342b710fb34409821de9d097b0d8b17f56a57a17d75d05c4c1c5b63"
 
 [[files]]
-file = "overrides/mods/cloth-config-11.1.136-forge.jar"
+file = "mods/cloth-config-11.1.136-forge.jar"
 hash = "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
 
 [[files]]
-file = "overrides/mods/collective-1.20.1-8.3.jar"
+file = "mods/collective-1.20.1-8.3.jar"
 hash = "6719ac5ebb35227b0b28e097c7850ec639410eef97333e2988c2c0d561b23301"
 
 [[files]]
-file = "overrides/mods/configured-forge-1.20.1-2.2.3.jar"
+file = "mods/configured-forge-1.20.1-2.2.3.jar"
 hash = "05dceddd57825f911135c929504ef320b75953d05e7dc918dba58a0574e5315f"
 
 [[files]]
-file = "overrides/mods/connectedglass-1.1.13-forge-mc1.20.1.jar"
+file = "mods/connectedglass-1.1.13-forge-mc1.20.1.jar"
 hash = "cb5a4e2f8f849ee2debbf25fa266373490f7af5e841f0c9c3d3890b3e25a5968"
 
 [[files]]
-file = "overrides/mods/connectivity-1.20.1-7.1.jar"
+file = "mods/connectivity-1.20.1-7.1.jar"
 hash = "acefc209a8f4cf4cb79e3bb9eb9016df687a4c81877bf4b305487770fc312337"
 
 [[files]]
-file = "overrides/mods/continuity-3.0.0+1.20.1.forge.jar"
+file = "mods/continuity-3.0.0+1.20.1.forge.jar"
 hash = "855ee87de79b0e161713a2689f3f2d07259e9490af194b8cfb6a4400c6ea1c76"
 
 [[files]]
-file = "overrides/mods/cookingforblockheads-forge-1.20.1-16.0.13.jar"
+file = "mods/cookingforblockheads-forge-1.20.1-16.0.13.jar"
 hash = "983d6f1253b51b2b0485b4a4202384160986aa5b502657d9e0ef87706cb5293b"
 
 [[files]]
-file = "overrides/mods/coroutil-forge-1.20.1-1.3.7.jar"
+file = "mods/coroutil-forge-1.20.1-1.3.7.jar"
 hash = "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f"
 
 [[files]]
-file = "overrides/mods/craftingtweaks-forge-1.20.1-18.2.5.jar"
+file = "mods/craftingtweaks-forge-1.20.1-18.2.5.jar"
 hash = "b8cd1af731e7b02f5683fdc62750f0cda304b5d814d917321220fc881c2a901a"
 
 [[files]]
-file = "overrides/mods/create-1.20.1-6.0.4.jar"
+file = "mods/create-1.20.1-6.0.4.jar"
 hash = "56aed178aca3c466ec556c9b2dc43616f1a131eb30e70c61c0a094f6a60ac588"
 
 [[files]]
-file = "overrides/mods/creeperoverhaul-3.0.2-forge.jar"
+file = "mods/creeperoverhaul-3.0.2-forge.jar"
 hash = "212eb2a2d767f54fbfbac2336c63fe2bd1aae4d827ab358da329a746358b6dd9"
 
 [[files]]
-file = "overrides/mods/cupboard-1.20.1-2.7.jar"
+file = "mods/cupboard-1.20.1-2.7.jar"
 hash = "63a1b6e8e9cffd53f283fae04f64b8d63dcaaa99fe0e383bb664f23ec87d395f"
 
 [[files]]
-file = "overrides/mods/curios-forge-5.14.1+1.20.1.jar"
+file = "mods/curios-forge-5.14.1+1.20.1.jar"
 hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
 
 [[files]]
-file = "overrides/mods/darkheads-forge-1.20.1-1.0.6.jar"
+file = "mods/darkheads-forge-1.20.1-1.0.6.jar"
 hash = "a938fcee7da8e3f981ed2c412103b409df8a2be96c505a911159ee6cb598dc8e"
 
 [[files]]
-file = "overrides/mods/documents-2.0.2.jar"
+file = "mods/documents-2.0.2.jar"
 hash = "ab086c561ed80f798eb43a2ede8fdfc5bafaa0bd0ca3975388e81a63e2213698"
 
 [[files]]
-file = "overrides/mods/domum_ornamentum-1.20.1-1.0.285-snapshot-universal.jar"
+file = "mods/domum_ornamentum-1.20.1-1.0.285-snapshot-universal.jar"
 hash = "f95098559cb1c3585b610b1ffdc21104b0b69e4c6356a2412d07302a6e200e9b"
 
 [[files]]
-file = "overrides/mods/emi-1.1.22+1.20.1+forge.jar"
+file = "mods/emi-1.1.22+1.20.1+forge.jar"
 hash = "877a2831c44ab7a0e1f8da0df92125b42f93c6f9b9e4dd1ceb566d8adc67950a"
 
 [[files]]
-file = "overrides/mods/endermanoverhaul-forge-1.20.1-1.0.4.jar"
+file = "mods/endermanoverhaul-forge-1.20.1-1.0.4.jar"
 hash = "18f9f0bf3a9b4f77ad6913c28ccb927cde24f5d19524152cfe79ebb3dcccacc5"
 
 [[files]]
-file = "overrides/mods/entangled-1.3.20-forge-mc1.20.4.jar"
+file = "mods/entangled-1.3.20-forge-mc1.20.4.jar"
 hash = "f08d4ebb327d18e4e9296a66eeed09942a8183895fd0a29cf8e2192e40649576"
 
 [[files]]
-file = "overrides/mods/entity_model_features_forge_1.20.1-2.4.1.jar"
+file = "mods/entity_model_features_forge_1.20.1-2.4.1.jar"
 hash = "9bea926d834e8dd84eb9cb74cb6954c9b88d16a341941a0caecf7cc6656ad586"
 
 [[files]]
-file = "overrides/mods/entity_texture_features_forge_1.20.1-6.2.9.jar"
+file = "mods/entity_texture_features_forge_1.20.1-6.2.9.jar"
 hash = "f4a4b89409c0f67a3eb3930e33334382b8166c5a90259a6e7fdf5df19c365c12"
 
 [[files]]
-file = "overrides/mods/everyxdance-1.0.0.jar"
+file = "mods/everyxdance-1.0.0.jar"
 hash = "5c1fa0dc10c65909a2ace625d97e3f94b89681135f01072f322dbbb3b30cd92a"
 
 [[files]]
-file = "overrides/mods/fabric-api-0.92.2+1.11.12+1.20.1.jar"
+file = "mods/fabric-api-0.92.2+1.11.12+1.20.1.jar"
 hash = "7cada1e9bbee4b506d7c90471a705a32e6cf1d00f36556129f30a40453fc00fc"
 
 [[files]]
-file = "overrides/mods/fallingleaves-1.20.1-2.1.2.jar"
+file = "mods/fallingleaves-1.20.1-2.1.2.jar"
 hash = "6202d8241f01e21278fd5de644fd2e992824069f2cf0fc9dc6a74ab2218015b6"
 
 [[files]]
-file = "overrides/mods/fastasyncworldsave-1.20.1-2.4.jar"
+file = "mods/fastasyncworldsave-1.20.1-2.4.jar"
 hash = "eb5edd60cfc38b5395755c210d63ecf8c0177580fd0e2cad97de90acac402457"
 
 [[files]]
-file = "overrides/mods/fcl-20.23c.jar"
+file = "mods/fcl-20.23c.jar"
 hash = "8a1de45d3770f99ac4980981a123cb40914ad24eaf479f5f78d35bb522dad809"
 
 [[files]]
-file = "overrides/mods/ferritecore-6.0.1-forge.jar"
+file = "mods/ferritecore-6.0.1-forge.jar"
 hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
 
 [[files]]
-file = "overrides/mods/fusion-1.2.7b-forge-mc1.20.1.jar"
+file = "mods/fusion-1.2.7b-forge-mc1.20.1.jar"
 hash = "be8fae0d9126bbb66f1827e7abb27f6eee5d0a566808a13e5f3840da1be50e77"
 
 [[files]]
-file = "overrides/mods/geckolib-forge-1.20.1-4.7.1.2.jar"
+file = "mods/geckolib-forge-1.20.1-4.7.1.2.jar"
 hash = "46e278e8b052cc98f548f02fe03b11339af0397724525d7258429dc2ad68f4a1"
 
 [[files]]
-file = "overrides/mods/hologram_panel-1.20.1-forge-1.0.1.jar"
+file = "mods/hologram_panel-1.20.1-forge-1.0.1.jar"
 hash = "666b832a5d57bb3c99c37cbc2496dfd98f13f635982af26db941f6515d6753c3"
 
 [[files]]
-file = "overrides/mods/horror_element_mod-1.6.1-forge-1.20.1.jar"
+file = "mods/horror_element_mod-1.6.1-forge-1.20.1.jar"
 hash = "8b749e1ffb9d4204f25347f92c126247a2608e6d41fd0084f7c49eedec377008"
 
 [[files]]
-file = "overrides/mods/hyperbox-1.20.1-4.0.2.0.jar"
+file = "mods/hyperbox-1.20.1-4.0.2.0.jar"
 hash = "0f0ca55dd379fb86f84bd4eab5fae302d660ce614b80b60aa618d05ad10d141f"
 
 [[files]]
-file = "overrides/mods/immersive_melodies-0.4.0+1.20.1-forge.jar"
+file = "mods/immersive_melodies-0.4.0+1.20.1-forge.jar"
 hash = "0a4f12e2d70f6846a52871f352d328545197273af4a76e783482409bf51d0f63"
 
 [[files]]
-file = "overrides/mods/ironchest-1.20.1-14.4.4.jar"
+file = "mods/ironchest-1.20.1-14.4.4.jar"
 hash = "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f"
 
 [[files]]
-file = "overrides/mods/journeymap-1.20.1-5.10.3-forge.jar"
+file = "mods/journeymap-1.20.1-5.10.3-forge.jar"
 hash = "8b2679b7b4881e0aa430fd24345ea446de919faf8a45bd2a71d37c7e8ff6ae1e"
 
 [[files]]
-file = "overrides/mods/lmft-1.0.4+1.20.1-forge.jar"
+file = "mods/lmft-1.0.4+1.20.1-forge.jar"
 hash = "e622af8d32c6a41904ceaa2da0174491c68b7acd3ec9888c47991dc9b6f591cc"
 
 [[files]]
-file = "overrides/mods/lootintegrations-1.20.1-4.3.jar"
+file = "mods/lootintegrations-1.20.1-4.3.jar"
 hash = "3b277f3ea7fd4a40b6dc43daf64513a62cfb7d92464373f7bed708fa0002a72b"
 
 [[files]]
-file = "overrides/mods/lootr-forge-1.20-0.7.35.91.jar"
+file = "mods/lootr-forge-1.20-0.7.35.91.jar"
 hash = "def6592e0162ea369d63e825abf0e6c60927eafed82772e821dc01cd9c4a5479"
 
 [[files]]
-file = "overrides/mods/lost_aether_content-1.20.1-1.2.3.jar"
+file = "mods/lost_aether_content-1.20.1-1.2.3.jar"
 hash = "699cc6fed1ddf8f46becb169f0ffc38acf4a3e93fcdf7f7cdf1ce28deff15505"
 
 [[files]]
-file = "overrides/mods/make_bubbles_pop-0.3.0-forge-mc1.19.4-1.20.4.jar"
+file = "mods/make_bubbles_pop-0.3.0-forge-mc1.19.4-1.20.4.jar"
 hash = "a702dc463ddf4d0a8b7d1fb90e9f718c66f131b9f038687f8df2e063b94d329e"
 
 [[files]]
-file = "overrides/mods/memoryleakfix-forge-1.17+-1.1.5.jar"
+file = "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
 hash = "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd"
 
 [[files]]
-file = "overrides/mods/minecolonies-1.20.1-1.1.873-snapshot.jar"
+file = "mods/minecolonies-1.20.1-1.1.873-snapshot.jar"
 hash = "c77d574d869a2ac70213b3166a74a3a49be95bfd2a7dab0ab69f621c6f5dbb7f"
 
 [[files]]
-file = "overrides/mods/modernfix-forge-5.21.0+mc1.20.1.jar"
+file = "mods/modernfix-forge-5.21.0+mc1.20.1.jar"
 hash = "365868788d3fc453f27e07adfc3a3fa204a791bfd1c31ef1a6c7335535d60089"
 
 [[files]]
-file = "overrides/mods/moonlight-1.20-2.13.82-forge.jar"
+file = "mods/moonlight-1.20-2.13.82-forge.jar"
 hash = "e11a00635ff01a1ff2bb133360968d7b5337c0487a6f202aa6dd23124eb3d5d6"
 
 [[files]]
-file = "overrides/mods/moyai-1.20-2.1.4.jar"
+file = "mods/moyai-1.20-2.1.4.jar"
 hash = "ed454485e47318477ee76287de77d6cb8c5b0c5e15a16f6083f163146b819fd1"
 
 [[files]]
-file = "overrides/mods/multipiston-1.20-1.2.43-RELEASE.jar"
+file = "mods/multipiston-1.20-1.2.43-RELEASE.jar"
 hash = "3102eb9915591296d14e22992d0a7baa526161b6e92058c017425c0bff19efb6"
 
 [[files]]
-file = "overrides/mods/mysticaloaktree-1.20-1.11.jar"
+file = "mods/mysticaloaktree-1.20-1.11.jar"
 hash = "217f791ed65773a26f0563e45e15bed025e95b91e77f114169706777e6fb72d7"
 
 [[files]]
-file = "overrides/mods/netherportalfix-forge-1.20-13.0.1.jar"
+file = "mods/netherportalfix-forge-1.20-13.0.1.jar"
 hash = "d75583165a6e4236b4e25dbd7cf416d41cd19d7d64286413f071d8a383fe6a47"
 
 [[files]]
-file = "overrides/mods/notenoughcrashes-4.4.7+1.20.1-forge.jar"
+file = "mods/notenoughcrashes-4.4.7+1.20.1-forge.jar"
 hash = "c40a66008546ad5061b1391c7e662b07254ec86af20d0c35bf61352024823c83"
 
 [[files]]
-file = "overrides/mods/packetfixer-forge-2.0.0-1.19-to-1.20.1.jar"
+file = "mods/packetfixer-forge-2.0.0-1.19-to-1.20.1.jar"
 hash = "1c1b1a50a7a9a18c6102c8eeb10ba23d754e020f733f326405658a6ee1a68c8a"
 
 [[files]]
-file = "overrides/mods/player_companions_1.20.1-6.11.0.jar"
+file = "mods/player_companions_1.20.1-6.11.0.jar"
 hash = "2b7361cf34063c2632ac17d53f79c57f92a64632bc1a9307e269d2b8d22185ba"
 
 [[files]]
-file = "overrides/mods/polymorph-forge-0.49.10+1.20.1.jar"
+file = "mods/polymorph-forge-0.49.10+1.20.1.jar"
 hash = "cbe63a0a1cb6ae8dbc0e29bb96d149a137cd4e714b295fa49d230994091d157f"
 
 [[files]]
-file = "overrides/mods/rcmod-1.0-forge-1.20.1.jar"
+file = "mods/rcmod-1.0-forge-1.20.1.jar"
 hash = "8e22da74a1b5116074aeca558af4aa22a6bb5eda633776b3fcd2436c6466e9db"
 
 [[files]]
-file = "overrides/mods/rechiseled-1.1.6-forge-mc1.20.jar"
+file = "mods/rechiseled-1.1.6-forge-mc1.20.jar"
 hash = "5ef5676653a1f15af86841d55f1963e1fc9066cbb87e59d82569467f086425eb"
 
 [[files]]
-file = "overrides/mods/redstonepen-1.20.1-neoforge-1.3.33.jar"
+file = "mods/redstonepen-1.20.1-neoforge-1.3.33.jar"
 hash = "aef08bd294a9cceb07eb853224488d9444104eee0d37e2904e3ae62624d2d518"
 
 [[files]]
-file = "overrides/mods/resourcefulconfig-forge-1.20.1-2.1.3.jar"
+file = "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar"
 hash = "c404b9e5cf8595427a72d4ca6ee5730289168762b463f169be3ae5dfe3727ded"
 
 [[files]]
-file = "overrides/mods/resourcefullib-forge-1.20.1-2.1.29.jar"
+file = "mods/resourcefullib-forge-1.20.1-2.1.29.jar"
 hash = "b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8"
 
 [[files]]
-file = "overrides/mods/simpleshops-1.2.2.jar"
+file = "mods/simpleshops-1.2.2.jar"
 hash = "2afb0026e34601f1da9d0a11ddea41a63de69df110d9a3d0ada0523a33f9eeb2"
 
 [[files]]
-file = "overrides/mods/simpleshopsfix-1.1.1.jar"
+file = "mods/simpleshopsfix-1.1.1.jar"
 hash = "6dae18b0d95d4393e780caf5e4d2df9cc38ff67c789b830b6b3e10857edb4052"
 
 [[files]]
-file = "overrides/mods/smoothchunk-1.20.1-4.1.jar"
+file = "mods/smoothchunk-1.20.1-4.1.jar"
 hash = "0ee48f7bf78070a7cb5858492faa6fe7d58443acbd97a92547bd664ee710e5c1"
 
 [[files]]
-file = "overrides/mods/smoothswapping-0.9.2-1.20.1-forge.jar"
+file = "mods/smoothswapping-0.9.2-1.20.1-forge.jar"
 hash = "a0b39a481b70d6d55d80ec67311f2806ab8736c977ce13581c5f1d9bde5cab5e"
 
 [[files]]
-file = "overrides/mods/sound-physics-remastered-forge-1.20.1-1.4.13.jar"
+file = "mods/sound-physics-remastered-forge-1.20.1-1.4.13.jar"
 hash = "bfd067ee45b7f2309934155fc5202810bea62e9866c690ec3cb4958324b08d59"
 
 [[files]]
-file = "overrides/mods/spawn-animations-compats-10.0.jar"
+file = "mods/spawn-animations-compats-10.0.jar"
 hash = "ed2f75d56b506576db878a17ae850902d7d5fae8e57af44a97b4551b8a35e14e"
 
 [[files]]
-file = "overrides/mods/spawnanimations-v1.10.1-mc1.17-1.21.5-mod.jar"
+file = "mods/spawnanimations-v1.10.1-mc1.17-1.21.5-mod.jar"
 hash = "ef942fa31e5281b80e4fd4692d197774bb0e8be6486f75f5d584951e29175def"
 
 [[files]]
-file = "overrides/mods/structure_gel-1.20.1-2.16.2.jar"
+file = "mods/structure_gel-1.20.1-2.16.2.jar"
 hash = "1584a5aed31c0f63e53c29d53cf4e069cdabf358e785240cc500702dc5918e3e"
 
 [[files]]
-file = "overrides/mods/structureessentials-1.20.1-4.7.jar"
+file = "mods/structureessentials-1.20.1-4.7.jar"
 hash = "f7f67814592cc3eb04293d9a7265ade040f07587dd75aea50f2aa1a126bc0b12"
 
 [[files]]
-file = "overrides/mods/structurize-1.20.1-1.0.769-snapshot.jar"
+file = "mods/structurize-1.20.1-1.0.769-snapshot.jar"
 hash = "10b44fdf15f22e398611896f7c3c5f12dc649c7d1ce2fa62cc31d143d421361b"
 
 [[files]]
-file = "overrides/mods/superbwarfare-1.20.1-0.7.5-86244180.jar"
+file = "mods/superbwarfare-1.20.1-0.7.5-86244180.jar"
 hash = "b874beb6329a2a810d0f30332f5ddcd485b496944bdd32fd640cf0a79eb43b8e"
 
 [[files]]
-file = "overrides/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
+file = "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
 hash = "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3"
 
 [[files]]
-file = "overrides/mods/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar"
+file = "mods/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar"
 hash = "b89c7703f909c75bff8981be7a3c7219138e01549666bd5cd5c47a1d6330489e"
 
 [[files]]
-file = "overrides/mods/supplementaries-1.20-3.1.29.jar"
+file = "mods/supplementaries-1.20-3.1.29.jar"
 hash = "218229872610732f5727da466087030efd142137dbb115ffeebdc5169a12ec90"
 
 [[files]]
-file = "overrides/mods/suppsquared-1.20-1.1.21.jar"
+file = "mods/suppsquared-1.20-1.1.21.jar"
 hash = "07c349fafc01bb32483cc73453bd3bfb5dc564fa7a5eb022776bc63b2623ea72"
 
 [[files]]
-file = "overrides/mods/tinyredstone-1.20-5.0.3.jar"
+file = "mods/tinyredstone-1.20-5.0.3.jar"
 hash = "424c36181f236f2e06669d26377b26d66d427dec8192499ecc576c37d1b5c039"
 
 [[files]]
-file = "overrides/mods/tombstone-1.20.1-8.9.4.jar"
+file = "mods/tombstone-1.20.1-8.9.4.jar"
 hash = "4a003d78d6b2dd18f4b4e31fac30ea3ec8e58cf685a743da0803561537913678"
 
 [[files]]
-file = "overrides/mods/towntalk-1.20.1-1.1.0.jar"
+file = "mods/towntalk-1.20.1-1.1.0.jar"
 hash = "7ba6ab6ff1422b9175c3a7f232309db2c82d3ca3787547c79da7839cd78c262f"
 
 [[files]]
-file = "overrides/mods/transparent-forge-8.0.1+1.20.1.jar"
+file = "mods/transparent-forge-8.0.1+1.20.1.jar"
 hash = "3873e38506c740090b6c40a6a20d2d3eac5eec3d31e81a8e551dda3ef89b56ea"
 
 [[files]]
-file = "overrides/mods/twilightforest-1.20.1-4.3.2508-universal.jar"
+file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
 
 [[files]]
-file = "overrides/mods/villagernames-1.20.1-8.2.jar"
+file = "mods/villagernames-1.20.1-8.2.jar"
 hash = "fc8b8cc4a947d8a89313c8a552bff4e6cf75f873660322bf52fbddb667be2427"
 
 [[files]]
-file = "overrides/mods/voicechat-forge-1.20.1-2.5.30.jar"
+file = "mods/voicechat-forge-1.20.1-2.5.30.jar"
 hash = "834a7fead9278bb50bed16a838d4ff0f16ad3164c9b4857cf1e74299ddd8b775"
 
 [[files]]
-file = "overrides/mods/waterframes-FORGE-mc1.20.1-v2.1.14.jar"
+file = "mods/waterframes-FORGE-mc1.20.1-v2.1.14.jar"
 hash = "c52c64aac462522fe82d50f11151875f292c36a09dead0b6976d79a238f6d706"
 
 [[files]]
-file = "overrides/mods/watermedia-2.1.24.jar"
+file = "mods/watermedia-2.1.24.jar"
 hash = "788d201ab91dfd89be8df5b76c2b89507cb8bfe44d3ce9ed0347aa1e0751dd7a"
 
 [[files]]
-file = "overrides/mods/watut-forge-1.20.1-1.2.3.jar"
+file = "mods/watut-forge-1.20.1-1.2.3.jar"
 hash = "19a7291187e1074dac0ade56f95cdb84936e8563c55afdc0b86c90ea7cd80a9e"
 
 [[files]]
-file = "overrides/mods/wits-1.1.0+1.20.1-forge.jar"
+file = "mods/wits-1.1.0+1.20.1-forge.jar"
 hash = "0ef836cf94d93125ade799509069b9c5290779dddeef57799010341768b39e28"
