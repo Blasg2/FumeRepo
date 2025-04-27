@@ -12,5 +12,3 @@ hash = "932d3ee4e0e2f0f14be831d24de5170b15bdb51ff43fb5978d7b63ff544b6ed1"
 forge = "47.4.0"
 minecraft = "1.20.1"
 
-[installer]
-no-gui = true
