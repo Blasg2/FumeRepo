@@ -1649,6 +1649,10 @@ file = "mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar"
 hash = "c4f1b6bcbd2c4fd8c54866cc217f455d2e8262e35ac218f8fb628c79bc76ff8e"
 
 [[files]]
+file = "mods/SpiderPig-1.20-1.0.3.jar"
+hash = "919b938ba88d64c037e4b379b0a80cd1a93f874fc391930b3309d71810283d38"
+
+[[files]]
 file = "mods/StorageDrawers-1.20.1-12.9.13.jar"
 hash = "f7d0df800bf13399c8d9e3b04d5723ed8468aca68224f4fb2133ac55bb4313a0"
 
