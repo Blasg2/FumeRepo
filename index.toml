@@ -861,6 +861,14 @@ file = "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar"
 hash = "d8501371240082c3436c03380f7a59820fd981e9c5d9fb2978a222ea114b23ae"
 
 [[files]]
+file = "mods/Explorify v1.6.2 f10-48.jar"
+hash = "8280dd4b3fa9a25a34dd663c3e0dc6342ba792ae31ab97d75c3c20e44bcc2df5"
+
+[[files]]
+file = "mods/FallingTree-1.20.1-4.3.4.jar"
+hash = "da9d2c40e7967b1c3790e526092563d3999cc03bf1c7097285b3bedf1515db69"
+
+[[files]]
 file = "mods/FastFurnace-1.20.1-8.0.2.jar"
 hash = "970c11c090e7a364e2e006aabb5e573f79901e710e97195334ee5802317776e8"
 
@@ -923,6 +931,10 @@ hash = "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571"
 [[files]]
 file = "mods/PlentyPlates-v8.0.0-1.20.1-Forge.jar"
 hash = "3523424e0ffd05349f923bb5dc2ad72ab948813f79d6d72a74e84c07db9b5a1a"
+
+[[files]]
+file = "mods/ProjectE-1.20.1-PE1.0.1.jar"
+hash = "f51f387e56307e7cda26915ca0c789760d85e97a8b40b8bfa0988be66371d018"
 
 [[files]]
 file = "mods/PuzzlesLib-v8.1.32-1.20.1-Forge.jar"
@@ -991,6 +1003,10 @@ hash = "69f5552595b01d605f205c9399181cb42f69088d44ebc20529d628c4a45342d3"
 [[files]]
 file = "mods/anthillinside-1.20.1-neoforge-1.4.24.jar"
 hash = "cbe729381413ef9021e747652e76f4a52a94a40327477d115f7b63d9f58bad45"
+
+[[files]]
+file = "mods/antique-atlas-2.11.2+1.20.jar"
+hash = "f461e463061a7faecbf0d0cbd1a3784645596d1b23a4ab90e9e14db4a3a5ab2d"
 
 [[files]]
 file = "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
@@ -1119,6 +1135,10 @@ hash = "ab086c561ed80f798eb43a2ede8fdfc5bafaa0bd0ca3975388e81a63e2213698"
 [[files]]
 file = "mods/domum_ornamentum-1.20.1-1.0.285-snapshot-universal.jar"
 hash = "f95098559cb1c3585b610b1ffdc21104b0b69e4c6356a2412d07302a6e200e9b"
+
+[[files]]
+file = "mods/easy-villagers-forge-1.20.1-1.1.27.jar"
+hash = "c92165aada7fd58073b00c1d9bfbf0641eb532d70916be696b3c8fe450b41437"
 
 [[files]]
 file = "mods/emi-1.1.22+1.20.1+forge.jar"
@@ -1269,6 +1289,10 @@ file = "mods/rcmod-1.0-forge-1.20.1.jar"
 hash = "8e22da74a1b5116074aeca558af4aa22a6bb5eda633776b3fcd2436c6466e9db"
 
 [[files]]
+file = "mods/realcamera-1.20.1-forge-0.6.1-beta.jar"
+hash = "906b76c090720e20ab5e0f68c11a894afbde5c45f5ab71d2e148fcb4948b9855"
+
+[[files]]
 file = "mods/rechiseled-1.1.6-forge-mc1.20.jar"
 hash = "5ef5676653a1f15af86841d55f1963e1fc9066cbb87e59d82569467f086425eb"
 
@@ -1299,6 +1323,14 @@ hash = "0ee48f7bf78070a7cb5858492faa6fe7d58443acbd97a92547bd664ee710e5c1"
 [[files]]
 file = "mods/smoothswapping-0.9.2-1.20.1-forge.jar"
 hash = "a0b39a481b70d6d55d80ec67311f2806ab8736c977ce13581c5f1d9bde5cab5e"
+
+[[files]]
+file = "mods/sophisticatedcore-1.20.1-1.2.51.966.jar"
+hash = "20223eb57e7a783e7b77cf08dd2668159a4e63b35f4ff6a64158d6c1cd921b27"
+
+[[files]]
+file = "mods/sophisticatedstorage-1.20.1-1.3.38.1136.jar"
+hash = "bd48bceba07fd0ae8803ced66f755e5bc708d167cc7fcfbf5cb9533fb3e71761"
 
 [[files]]
 file = "mods/sound-physics-remastered-forge-1.20.1-1.4.13.jar"
@@ -1345,6 +1377,10 @@ file = "mods/suppsquared-1.20-1.1.21.jar"
 hash = "07c349fafc01bb32483cc73453bd3bfb5dc564fa7a5eb022776bc63b2623ea72"
 
 [[files]]
+file = "mods/surveyor-0.6.26+1.20.jar"
+hash = "756338c927bab2af07da18a6b80e662c185f4377cdba284aec4dcd7ae9a97e20"
+
+[[files]]
 file = "mods/the_bumblezone-7.6.12+1.20.1-forge.jar"
 hash = "cb1c3a3ecbda66d6e389027985d6af4d1242fce82d80be6ae06a9106cfd9499b"
 
@@ -1369,6 +1405,10 @@ file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
 
 [[files]]
+file = "mods/veinmining-forge-1.5.0+1.20.1.jar"
+hash = "0863db13b3e13ec5fd077df1b64c21ab7637048880713c859246a6e1d7144460"
+
+[[files]]
 file = "mods/villagernames-1.20.1-8.2.jar"
 hash = "fc8b8cc4a947d8a89313c8a552bff4e6cf75f873660322bf52fbddb667be2427"
 
@@ -1387,6 +1427,10 @@ hash = "788d201ab91dfd89be8df5b76c2b89507cb8bfe44d3ce9ed0347aa1e0751dd7a"
 [[files]]
 file = "mods/watut-forge-1.20.1-1.2.3.jar"
 hash = "19a7291187e1074dac0ade56f95cdb84936e8563c55afdc0b86c90ea7cd80a9e"
+
+[[files]]
+file = "mods/waystones-forge-1.20.1-14.1.11.jar"
+hash = "bd758f39c159362223d392b4008b8136890587c45de16075089b13f7e1295d90"
 
 [[files]]
 file = "mods/wits-1.1.0+1.20.1-forge.jar"
