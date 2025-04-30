@@ -1040,10 +1040,6 @@ file = "mods/brazilian_mito2.jar"
 hash = "45ade6cda25fc17b85edcdeb064d0f781cc6625abcb6bd5fdfddb82017340412"
 
 [[files]]
-file = "mods/callofequestria-0.2-1.20.1.jar"
-hash = "e7a3d15adeb39131ffaadf9013a4cda4583e82ce826fc3603fed1c0a8c3da0cd"
-
-[[files]]
 file = "mods/camera-forge-1.20.1-1.0.19.jar"
 hash = "4fc34cd870ffce2d4a52957028ef6d8211be45d99f11558bdec95ce869c266f8"
 
