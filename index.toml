@@ -628,11 +628,6 @@ hash = "0fd56d1eec5ca547526c2fa758328c1204c2851ebb6d2c4ad371631701545148"
 metafile = true
 
 [[files]]
-file = "mods/.index/smooth-swapping-forge-updated.pw.toml"
-hash = "4510beb03cf0f0ea50bf8b787bd09e1c8e22af9c027a22c8a41b34ce00599753"
-metafile = true
-
-[[files]]
 file = "mods/.index/sound-physics-remastered.pw.toml"
 hash = "570b6ddb5741aeb1fbf1e3e2c78ee684c6bb9c82c589d2b37b86d61c58563544"
 metafile = true
@@ -1319,10 +1314,6 @@ hash = "6dae18b0d95d4393e780caf5e4d2df9cc38ff67c789b830b6b3e10857edb4052"
 [[files]]
 file = "mods/smoothchunk-1.20.1-4.1.jar"
 hash = "0ee48f7bf78070a7cb5858492faa6fe7d58443acbd97a92547bd664ee710e5c1"
-
-[[files]]
-file = "mods/smoothswapping-0.9.2-1.20.1-forge.jar"
-hash = "a0b39a481b70d6d55d80ec67311f2806ab8736c977ce13581c5f1d9bde5cab5e"
 
 [[files]]
 file = "mods/sophisticatedcore-1.20.1-1.2.51.966.jar"
