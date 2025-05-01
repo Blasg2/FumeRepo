@@ -900,6 +900,10 @@ file = "mods/ImmersiveEngineering-1.20.1-10.2.0-183.jar"
 hash = "061dd0e8e066dc39277736d5607a47a18fee4aff428de3363882f96e5c405aaa"
 
 [[files]]
+file = "mods/ImmersiveUI-FORGE-0.3.0.jar"
+hash = "7295ae6681b178ed633e951b1f4478d15b2ed7b13836038caf7d3c9427fff1ff"
+
+[[files]]
 file = "mods/Jade-1.20.1-Forge-11.13.1.jar"
 hash = "921996fef486fdc0d03d3e9574698243edb380e118aaa6a59dccd55b1776b32f"
 
@@ -922,6 +926,10 @@ hash = "28e05589c9e4021d9504c9eea387ed4e80adcdcd0626a9623a53754cfa69f7bf"
 [[files]]
 file = "mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar"
 hash = "ef7fa5096dfd492c3d3ae7228888ca4b92ce07d9b8e302297ceb2ceb1f8d238c"
+
+[[files]]
+file = "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar"
+hash = "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047"
 
 [[files]]
 file = "mods/Pehkui-3.8.2+1.20.1-forge.jar"
