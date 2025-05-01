@@ -904,6 +904,10 @@ file = "mods/Jade-1.20.1-Forge-11.13.1.jar"
 hash = "921996fef486fdc0d03d3e9574698243edb380e118aaa6a59dccd55b1776b32f"
 
 [[files]]
+file = "mods/JadeAddons-1.20.1-Forge-5.5.0.jar"
+hash = "3fa00b2ee33ee154ef155997fc7e12fb0e4d7f4f06d1bfd47dd6ee3c6a1549d4"
+
+[[files]]
 file = "mods/Lucky77_1.20.1_v04.jar"
 hash = "dc3fd253e7bb2b4f8dc90aa27aa8c74176e49d46dcb26c6ca5c291c769201b98"
 
