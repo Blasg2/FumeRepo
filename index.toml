@@ -912,6 +912,10 @@ file = "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
 hash = "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08"
 
 [[files]]
+file = "mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar"
+hash = "ef7fa5096dfd492c3d3ae7228888ca4b92ce07d9b8e302297ceb2ceb1f8d238c"
+
+[[files]]
 file = "mods/Pehkui-3.8.2+1.20.1-forge.jar"
 hash = "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc"
 
