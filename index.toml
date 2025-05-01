@@ -852,6 +852,10 @@ file = "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar"
 hash = "d8501371240082c3436c03380f7a59820fd981e9c5d9fb2978a222ea114b23ae"
 
 [[files]]
+file = "mods/ExplorersCompass-1.20.1-1.3.3-forge.jar"
+hash = "1bc2ee02e3fafd90255a76c90b097008dc563e863118d202adcbd5cdc7e54c21"
+
+[[files]]
 file = "mods/Explorify v1.6.2 f10-48.jar"
 hash = "8280dd4b3fa9a25a34dd663c3e0dc6342ba792ae31ab97d75c3c20e44bcc2df5"
 
@@ -906,6 +910,10 @@ hash = "dc3fd253e7bb2b4f8dc90aa27aa8c74176e49d46dcb26c6ca5c291c769201b98"
 [[files]]
 file = "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
 hash = "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08"
+
+[[files]]
+file = "mods/NaturesCompass-1.20.1-1.11.2-forge.jar"
+hash = "28e05589c9e4021d9504c9eea387ed4e80adcdcd0626a9623a53754cfa69f7bf"
 
 [[files]]
 file = "mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar"
@@ -1164,8 +1172,16 @@ file = "mods/fallingleaves-1.20.1-2.1.2.jar"
 hash = "6202d8241f01e21278fd5de644fd2e992824069f2cf0fc9dc6a74ab2218015b6"
 
 [[files]]
+file = "mods/fantasydice-1.20.1-10.0.0.jar"
+hash = "0fecf36afbc5dbe958f16ca7eed9af9ca82d7c1b819fbbe3a79048a81692930d"
+
+[[files]]
 file = "mods/fastasyncworldsave-1.20.1-2.4.jar"
 hash = "eb5edd60cfc38b5395755c210d63ecf8c0177580fd0e2cad97de90acac402457"
+
+[[files]]
+file = "mods/fastpaintings-1.20-1.2.7.jar"
+hash = "cb7e71c87abb53d9bf66836ff3a9036dde261594e25ecbe3e140fe3153ce4358"
 
 [[files]]
 file = "mods/fcl-20.23c.jar"
@@ -1288,6 +1304,10 @@ file = "mods/rechiseled-1.1.6-forge-mc1.20.jar"
 hash = "5ef5676653a1f15af86841d55f1963e1fc9066cbb87e59d82569467f086425eb"
 
 [[files]]
+file = "mods/recipeessentials-1.20.1-4.0.jar"
+hash = "eb0ff236212f83cfb04b39c72678282a1b964a5cfcb0cecb314e953f03347f14"
+
+[[files]]
 file = "mods/redstonepen-1.20.1-neoforge-1.3.33.jar"
 hash = "aef08bd294a9cceb07eb853224488d9444104eee0d37e2904e3ae62624d2d518"
 
@@ -1322,6 +1342,10 @@ hash = "bd48bceba07fd0ae8803ced66f755e5bc708d167cc7fcfbf5cb9533fb3e71761"
 [[files]]
 file = "mods/sound-physics-remastered-forge-1.20.1-1.4.13.jar"
 hash = "bfd067ee45b7f2309934155fc5202810bea62e9866c690ec3cb4958324b08d59"
+
+[[files]]
+file = "mods/spark-1.10.53-forge.jar"
+hash = "eba275ba9bb0cb5b542913c3138c6eeff6a752898266d63d125d185f26ac99ed"
 
 [[files]]
 file = "mods/spawn-animations-compats-10.0.jar"
