@@ -1354,10 +1354,6 @@ file = "mods/polymorph-forge-0.49.10+1.20.1.jar"
 hash = "cbe63a0a1cb6ae8dbc0e29bb96d149a137cd4e714b295fa49d230994091d157f"
 
 [[files]]
-file = "mods/project_nightshift-1.0.0-forge-1.20.1.jar"
-hash = "c5d45bab987e0ef801d79a6330dabda2ffbcd1905bf8b37ad705d432b7e482d1"
-
-[[files]]
 file = "mods/rcmod-1.0-forge-1.20.1.jar"
 hash = "8e22da74a1b5116074aeca558af4aa22a6bb5eda633776b3fcd2436c6466e9db"
 
