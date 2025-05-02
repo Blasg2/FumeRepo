@@ -1378,10 +1378,6 @@ file = "mods/spawnanimations-v1.10.1-mc1.17-1.21.5-mod.jar"
 hash = "ef942fa31e5281b80e4fd4692d197774bb0e8be6486f75f5d584951e29175def"
 
 [[files]]
-file = "mods/storagedrawers-1.20.1-12.0.3.jar"
-hash = "1c29c6d505e1433c2a7144aab17acd3b2918d6c0f8cd01fc4c01962c35dc5c2c"
-
-[[files]]
 file = "mods/structure_gel-1.20.1-2.16.2.jar"
 hash = "1584a5aed31c0f63e53c29d53cf4e069cdabf358e785240cc500702dc5918e3e"
 
