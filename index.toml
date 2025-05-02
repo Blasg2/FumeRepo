@@ -1512,3 +1512,7 @@ hash = "bd758f39c159362223d392b4008b8136890587c45de16075089b13f7e1295d90"
 [[files]]
 file = "mods/wits-1.1.0+1.20.1-forge.jar"
 hash = "0ef836cf94d93125ade799509069b9c5290779dddeef57799010341768b39e28"
+
+[[files]]
+file = "mods/yesstevemodel-forge-1.20-2.4.1-release.jar"
+hash = "e4a6c78c20c8c8ff0c1e649fee1e63261af268b7f1eaddf93996d2bc91a8b983"
