@@ -814,10 +814,6 @@ file = "mods/AttributeFix-Forge-1.20.1-21.0.4.jar"
 hash = "5d8cc8928ce480288d5b504663bb13104df56ac72ce5bf36f2743ec27c701112"
 
 [[files]]
-file = "mods/BetterCompatibilityChecker-3.0.1-build.58+mc1.20.jar"
-hash = "656a8e817332dce5060a6d13bb737d58bb6c6a364315c191104f4183de8fc65c"
-
-[[files]]
 file = "mods/BetterF3-7.0.2-Forge-1.20.1.jar"
 hash = "e46ced73bdf78a59573a7188cfbe7256353f21a67eef752dc39b5e5816fc61c0"
 
