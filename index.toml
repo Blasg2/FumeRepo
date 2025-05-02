@@ -780,6 +780,10 @@ file = "mods/AetherVillages-1.20.1-1.0.7-forge.jar"
 hash = "9fb12bd7cc5326ac9381ca96fe4efa5afddf4d15e4f37538ebe6f689639ee59b"
 
 [[files]]
+file = "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
+hash = "4889e05ade9095a40886db99e33abbbc50ccd931ae5052db6180da896c68d75d"
+
+[[files]]
 file = "mods/AttributeFix-Forge-1.20.1-21.0.4.jar"
 hash = "5d8cc8928ce480288d5b504663bb13104df56ac72ce5bf36f2743ec27c701112"
 
@@ -928,6 +932,10 @@ file = "mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar"
 hash = "ef7fa5096dfd492c3d3ae7228888ca4b92ce07d9b8e302297ceb2ceb1f8d238c"
 
 [[files]]
+file = "mods/OC2RComponents-1.20.1-forge-1.1.7+92c90e5.jar"
+hash = "2992e3f7b79d2696cec220231d7bebd34636998c602db6b3fee4493366970f1f"
+
+[[files]]
 file = "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar"
 hash = "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047"
 
@@ -958,6 +966,10 @@ hash = "614741d2c4eeac0f01ceba8e6d0bbd134e2a501edf93a958da78e700933a8490"
 [[files]]
 file = "mods/Quark-4.0-462.jar"
 hash = "c90b96f049d92825c4a103721988c80d72e5ad380d17be46a0f53e114874c478"
+
+[[files]]
+file = "mods/Rei_Chikita_Mod_1.1.7b__jv1.20.1.jar"
+hash = "5d6e3e95d444d7839b8d010d4672fab0a2fe72c8eed024aa2c5c0b69560cac75"
 
 [[files]]
 file = "mods/Runelic-Forge-1.20.1-18.0.2.jar"
@@ -1070,6 +1082,14 @@ hash = "d7470921fc5ff988788d43409083f62478aecc91f4b81d7e6b63c80c933d4613"
 [[files]]
 file = "mods/cc-tweaked-1.20.1-forge-1.115.1.jar"
 hash = "21d84f2d7052a9acce9c8108c792db7961f3182d0add78617bc94752b0f93185"
+
+[[files]]
+file = "mods/cccbridge-mc1.20.1-forge-1.6.3.jar"
+hash = "ebdde3d104757c50f0a052b7807c4b7464bf12217a1cc7155387f665fb578d22"
+
+[[files]]
+file = "mods/ccshops-0.0.1.jar"
+hash = "0c56b2026b5357d68af4c4043f359811301f42d7c780c11a0e7ccae77f627452"
 
 [[files]]
 file = "mods/chat_heads-0.13.17-forge-1.20.jar"
@@ -1208,6 +1228,10 @@ file = "mods/fusion-1.2.7b-forge-mc1.20.1.jar"
 hash = "be8fae0d9126bbb66f1827e7abb27f6eee5d0a566808a13e5f3840da1be50e77"
 
 [[files]]
+file = "mods/fuze_relics-1.20.1-1.0.9.jar"
+hash = "5236fb4c6536e3dbf9c09211fbb95ee9171f57fd2ad92d9bb87e66c8836b8111"
+
+[[files]]
 file = "mods/geckolib-forge-1.20.1-4.7.1.2.jar"
 hash = "46e278e8b052cc98f548f02fe03b11339af0397724525d7258429dc2ad68f4a1"
 
@@ -1232,6 +1256,10 @@ file = "mods/journeymap-1.20.1-5.10.3-forge.jar"
 hash = "8b2679b7b4881e0aa430fd24345ea446de919faf8a45bd2a71d37c7e8ff6ae1e"
 
 [[files]]
+file = "mods/letsdo-vinery-forge-1.4.39.jar"
+hash = "dc708883f41268ae84d37a2e3e1935d3bfe57505c78a92e7fe5a3793f8464931"
+
+[[files]]
 file = "mods/lmft-1.0.4+1.20.1-forge.jar"
 hash = "e622af8d32c6a41904ceaa2da0174491c68b7acd3ec9888c47991dc9b6f591cc"
 
@@ -1250,6 +1278,14 @@ hash = "699cc6fed1ddf8f46becb169f0ffc38acf4a3e93fcdf7f7cdf1ce28deff15505"
 [[files]]
 file = "mods/make_bubbles_pop-0.3.0-forge-mc1.19.4-1.20.4.jar"
 hash = "a702dc463ddf4d0a8b7d1fb90e9f718c66f131b9f038687f8df2e063b94d329e"
+
+[[files]]
+file = "mods/markdown_manual-MC1.20.1-forge-1.2.5+c3f0b88.jar"
+hash = "13711f030faa4a6951623c5dc487720cae6b0ed3f28653fe7c704c274d56af1b"
+
+[[files]]
+file = "mods/mcw-bridges-3.0.0-mc1.20.1forge.jar"
+hash = "fc0a882dc96ed76339d03d066fb72e5fb8017d464d4cd7b9668e70568cae179a"
 
 [[files]]
 file = "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
@@ -1292,6 +1328,10 @@ file = "mods/notenoughcrashes-4.4.7+1.20.1-forge.jar"
 hash = "c40a66008546ad5061b1391c7e662b07254ec86af20d0c35bf61352024823c83"
 
 [[files]]
+file = "mods/oc2r-1.20.1-forge-2.1.2-all.jar"
+hash = "dbdfac1ebff968ba97275ca2e3fd7fbedc20777219cf6a07446159799e730a73"
+
+[[files]]
 file = "mods/packetfixer-forge-2.0.0-1.19-to-1.20.1.jar"
 hash = "1c1b1a50a7a9a18c6102c8eeb10ba23d754e020f733f326405658a6ee1a68c8a"
 
@@ -1302,6 +1342,10 @@ hash = "2b7361cf34063c2632ac17d53f79c57f92a64632bc1a9307e269d2b8d22185ba"
 [[files]]
 file = "mods/polymorph-forge-0.49.10+1.20.1.jar"
 hash = "cbe63a0a1cb6ae8dbc0e29bb96d149a137cd4e714b295fa49d230994091d157f"
+
+[[files]]
+file = "mods/project_nightshift-1.0.0-forge-1.20.1.jar"
+hash = "c5d45bab987e0ef801d79a6330dabda2ffbcd1905bf8b37ad705d432b7e482d1"
 
 [[files]]
 file = "mods/rcmod-1.0-forge-1.20.1.jar"
