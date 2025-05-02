@@ -9,44 +9,12 @@ file = "icon.png"
 hash = "5592b4bda7121f8db865910d3d0bd58ec5b70cd5c5f62008f5651e793de7c7bb"
 
 [[files]]
-file = "mods/.connector/antique-atlas-2.11.2+1.20_mapped_srg_1.20.1.jar"
-hash = "45d2b54a1bf7f7fd4933d31703f9ed379d9796a3d7f538be037d2a1619ebb8f4"
-
-[[files]]
-file = "mods/.connector/antique-atlas-2.11.2+1.20_mapped_srg_1.20.1.jar.input"
-hash = "c11fc31843f56bd386615f3473431f8255fc4a0f21ad7089057342253add4db4"
-
-[[files]]
 file = "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar"
 hash = "87b1f5306fb54a55fcf6ad83a0505f81f613834a0e5c8e907c64d9eee108fddc"
 
 [[files]]
 file = "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input"
 hash = "be881cc02d6d86b62cd7946b18c3510b6e3abb0e6ba559c338365945bfe0dd4b"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.26+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar"
-hash = "4f9cf4b51e122306c554ee6adb9f88e2ca88fb9848fc52c2257257000af3ea13"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.26+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar.input"
-hash = "c7b63e1dcd6dce8505cc9813fd5b4b879265c1ce9881bb83c534d9a11eb913dc"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.26+1.20_mapped_srg_1.20.1.jar"
-hash = "9d9dbf8457cc0f1c7cf36275b64e736d02eb3068d9d62d432acc68ac9ce56c32"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.26+1.20_mapped_srg_1.20.1.jar.input"
-hash = "bedb67eda6e4dab52720f82a12938cb1c91eabb0c775b6d858a32dbcda329608"
-
-[[files]]
-file = "mods/.connector/temp/surveyor-0.6.26+1.20$kaleido-config-0.3.1+1.3.2.jar"
-hash = "11b99246a5447970dfca076f5f9dc064a44547b3878fb4318e14fd2db290d358"
-
-[[files]]
-file = "mods/.connector/temp/surveyor-0.6.26+1.20$kaleido-config-0.3.1+1.3.2.jar.input"
-hash = "c7b63e1dcd6dce8505cc9813fd5b4b879265c1ce9881bb83c534d9a11eb913dc"
 
 [[files]]
 file = "mods/.index/a-man-with-plushies.pw.toml"
@@ -1050,10 +1018,6 @@ file = "mods/anthillinside-1.20.1-neoforge-1.4.24.jar"
 hash = "cbe729381413ef9021e747652e76f4a52a94a40327477d115f7b63d9f58bad45"
 
 [[files]]
-file = "mods/antique-atlas-2.11.2+1.20.jar"
-hash = "f461e463061a7faecbf0d0cbd1a3784645596d1b23a4ab90e9e14db4a3a5ab2d"
-
-[[files]]
 file = "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
 hash = "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
 
@@ -1358,10 +1322,6 @@ file = "mods/rcmod-1.0-forge-1.20.1.jar"
 hash = "8e22da74a1b5116074aeca558af4aa22a6bb5eda633776b3fcd2436c6466e9db"
 
 [[files]]
-file = "mods/realcamera-1.20.1-forge-0.6.1-beta.jar"
-hash = "906b76c090720e20ab5e0f68c11a894afbde5c45f5ab71d2e148fcb4948b9855"
-
-[[files]]
 file = "mods/rechiseled-1.1.6-forge-mc1.20.jar"
 hash = "5ef5676653a1f15af86841d55f1963e1fc9066cbb87e59d82569467f086425eb"
 
@@ -1452,10 +1412,6 @@ hash = "218229872610732f5727da466087030efd142137dbb115ffeebdc5169a12ec90"
 [[files]]
 file = "mods/suppsquared-1.20-1.1.21.jar"
 hash = "07c349fafc01bb32483cc73453bd3bfb5dc564fa7a5eb022776bc63b2623ea72"
-
-[[files]]
-file = "mods/surveyor-0.6.26+1.20.jar"
-hash = "756338c927bab2af07da18a6b80e662c185f4377cdba284aec4dcd7ae9a97e20"
 
 [[files]]
 file = "mods/the_bumblezone-7.6.12+1.20.1-forge.jar"
