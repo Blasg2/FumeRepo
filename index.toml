@@ -160,11 +160,6 @@ hash = "645e64b2b9e822be7fb4385338a05975808b7db8df48c82113c6cfd65835200a"
 metafile = true
 
 [[files]]
-file = "mods/.index/blockui.pw.toml"
-hash = "8804e2e501da1e472d4972bee9f0cce2dabf4f49033da7ac092b1b6fe3b321ec"
-metafile = true
-
-[[files]]
 file = "mods/.index/bookshelf.pw.toml"
 hash = "6a388d82b91284ded271821c52919a99ae2c58158a2c898ddb23cb79beabe565"
 metafile = true
@@ -407,11 +402,6 @@ metafile = true
 [[files]]
 file = "mods/.index/geckolib.pw.toml"
 hash = "f79076d60af9000c7e0394a7213db9ad547098a3caf043867134bc48bb824c8e"
-metafile = true
-
-[[files]]
-file = "mods/.index/glitchcore.pw.toml"
-hash = "3b5fa65b2df8b26c45643ca5d860e995f8c3b6500be3bdf09c99aedc335e0670"
 metafile = true
 
 [[files]]
@@ -916,10 +906,6 @@ file = "mods/From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar"
 hash = "385bddf654c6edefd35cd7f47ce7dffff0610d29ed9efd49927f488dec919fb1"
 
 [[files]]
-file = "mods/GlitchCore-forge-1.20.1-0.0.1.0.jar"
-hash = "72202dea1c1f5aaa7d155fd3e6b8d085892b4fdf7969dd108fc55db0a88ac6fe"
-
-[[files]]
 file = "mods/Highlighter-1.20.1-forge-1.1.9.jar"
 hash = "8389c409257541c06789cd2287725d3df173168d9a0ebb9ff44c9b319e8b8026"
 
@@ -1094,10 +1080,6 @@ hash = "186fafcb94a1d93847f84ab89d63d2e20ec0fd748f79acc0cec7d6abb371b204"
 [[files]]
 file = "mods/betterarcheology-1.2.1-1.20.1.jar"
 hash = "4180f72ec4b69690ec160ac50e48c087f0fe7c98681dcd1f70d82ed5cbfeec9e"
-
-[[files]]
-file = "mods/blockui-1.20.1-1.0.156-RELEASE.jar"
-hash = "f3be9cf9be0dc8d5a4a11dc4e18a5ef53a96d5c802c263cb7637e2f69ddfb85b"
 
 [[files]]
 file = "mods/brazilian_mito2.jar"
