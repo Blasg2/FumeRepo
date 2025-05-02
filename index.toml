@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yes_steve_model-common.toml"
+hash = "95a43f938e07d710e2d30545feb9196849a08c9b14c583de3358b3467877e1ad"
+
+[[files]]
 file = "icon.png"
 hash = "5592b4bda7121f8db865910d3d0bd58ec5b70cd5c5f62008f5651e793de7c7bb"
 
