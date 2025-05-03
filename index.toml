@@ -197,11 +197,6 @@ hash = "0dc07cd61fc9108c3a9027594e7c615a7b860fea8c25e344692920060c85ddee"
 metafile = true
 
 [[files]]
-file = "mods/.index/connectivity.pw.toml"
-hash = "9acd4e974260d3f6a1d564103e79c670236fa848f72d75dfae9a1805810333d2"
-metafile = true
-
-[[files]]
 file = "mods/.index/connector.pw.toml"
 hash = "43a3d9a7554e0c1653fc446074c35871d237adb1327516a25f9b3dde962de72d"
 metafile = true
@@ -1096,10 +1091,6 @@ hash = "05dceddd57825f911135c929504ef320b75953d05e7dc918dba58a0574e5315f"
 [[files]]
 file = "mods/connectedglass-1.1.13-forge-mc1.20.1.jar"
 hash = "cb5a4e2f8f849ee2debbf25fa266373490f7af5e841f0c9c3d3890b3e25a5968"
-
-[[files]]
-file = "mods/connectivity-1.20.1-7.1.jar"
-hash = "acefc209a8f4cf4cb79e3bb9eb9016df687a4c81877bf4b305487770fc312337"
 
 [[files]]
 file = "mods/continuity-3.0.0+1.20.1.forge.jar"
