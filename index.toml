@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "aa.bat"
+hash = "2e56ac22ff0c444efc3061008ca0de6a87451c055434a515f602fec2510e9101"
+
+[[files]]
 file = "auto.bat"
 hash = "c4f1d0f9256eb4ab2f4b3a7159ce79566c9689f1224b7e74529918cc8bb51519"
 
@@ -11,6 +15,10 @@ hash = "95a43f938e07d710e2d30545feb9196849a08c9b14c583de3358b3467877e1ad"
 [[files]]
 file = "icon.png"
 hash = "5592b4bda7121f8db865910d3d0bd58ec5b70cd5c5f62008f5651e793de7c7bb"
+
+[[files]]
+file = "mod_parser.ps1"
+hash = "63930bae052ce434ecc06f3e8439ec342519e44485c8ba7172f2bdf3cde850b3"
 
 [[files]]
 file = "mods/.connector/Axiom-4.7.1-for-MC1.20.1$axiomclientapi-1.0.0_mapped_srg_1.20.1.jar"
@@ -2193,7 +2201,3 @@ hash = "0ef836cf94d93125ade799509069b9c5290779dddeef57799010341768b39e28"
 [[files]]
 file = "mods/yesstevemodel-forge-1.20-2.4.1-release.jar"
 hash = "e4a6c78c20c8c8ff0c1e649fee1e63261af268b7f1eaddf93996d2bc91a8b983"
-
-[[files]]
-file = "output_log.txt"
-hash = "bfcc1aacc034138385a01d29b90e73717be165ba3a424278ef53abc77dcad642"
