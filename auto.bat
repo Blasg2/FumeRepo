@@ -53,4 +53,4 @@ if "%CHANGES%"=="0" (
 :end
 echo.
 echo ✅ Script completed.
-pause
+
