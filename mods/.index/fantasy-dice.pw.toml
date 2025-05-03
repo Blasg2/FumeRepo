@@ -1,0 +1,16 @@
+filename = 'fantasydice-1.20.1-10.0.0.jar'
+name = "Fantasy's Dice"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f49b784b6347328898a8033c4f84262252534535ae695cf4c1502954a2f70d5e23a530066bc3b2e41f8858ba9f5104df9a714f403a74f9bb4862edb79c111f9f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hPeyEJEZ/versions/6DiyaRxa/fantasydice-1.20.1-10.0.0.jar'
+
+[update.modrinth]
+mod-id = 'hPeyEJEZ'
+version = '6DiyaRxa'

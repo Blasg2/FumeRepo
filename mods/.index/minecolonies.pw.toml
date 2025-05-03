@@ -1,4 +1,4 @@
-filename = 'minecolonies-1.20.1-1.1.873-snapshot.jar'
+filename = 'minecolonies-1.20.1-1.1.874-snapshot.jar'
 name = 'MineColonies'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = 'a8f7f7b7e24f7974c0faa3e5c8d34560d19a816e'
+hash = '04f84f468d2ebf548d2987cb6d94cabe82525567'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6444411
+file-id = 6471334
 project-id = 245506

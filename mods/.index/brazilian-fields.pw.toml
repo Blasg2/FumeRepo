@@ -1,0 +1,16 @@
+filename = 'brazilian_mito2.jar'
+name = 'Brazilian Fields - 2.0 UPDATE!!!!!'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7ac43844b1ff7272d1be106e99a84bcb65e9789a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6444167
+project-id = 450329
