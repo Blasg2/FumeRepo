@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "auto.bat"
-hash = "23d20291137de2cba64bf137bf8c56c90354504bb370a3c0c2b7b0bb6caebc6d"
+hash = "707354c0c98e4da0afbddd1f0cccba2b030303199b04af19f26c66fa7617dcaa"
 
 [[files]]
 file = "config/yes_steve_model-common.toml"

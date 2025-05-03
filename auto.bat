@@ -20,15 +20,37 @@ xcopy "%SOURCE%\*" "%DEST%\" /E /I /H /Y
 echo Running packwiz refresh...
 packwiz refresh
 
-:: Get current datetime for commit message
-for /f %%i in ('powershell -nologo -command "Get-Date -Format 'yyyy-MM-dd HH:mm:ss'"') do set "datetime=%%i"
+:: Check if Git is available
+git --version >nul 2>&1
+if errorlevel 1 (
+    echo ❌ Git is not installed or not in PATH.
+    goto end
+)
 
-echo Staging changes with git...
-git add .
+:: Check if inside a Git repo
+if not exist ".git" (
+    echo ❌ This folder is not a Git repository.
+    goto end
+)
 
-echo Creating git commit...
-git commit -m "Auto update on %datetime%"
+:: Check for changes
+git status --porcelain > git-diff-check.tmp
+for /f %%i in ('type git-diff-check.tmp ^| find /v /c ""') do set CHANGES=%%i
+del git-diff-check.tmp
 
+if "%CHANGES%"=="0" (
+    echo No changes to commit or push.
+) else (
+    for /f %%i in ('powershell -nologo -command "Get-Date -Format ''yyyy-MM-dd HH:mm:ss''"') do set "datetime=%%i"
+    echo Staging and committing changes...
+    git add .
+    git commit -m "Auto update on %datetime%"
+
+    echo Pushing to GitHub...
+    git push
+)
+
+:end
 echo.
-echo ✅ All done!
+echo ✅ Script completed.
 pause
