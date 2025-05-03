@@ -1414,6 +1414,10 @@ file = "mods/suppsquared-1.20-1.1.21.jar"
 hash = "07c349fafc01bb32483cc73453bd3bfb5dc564fa7a5eb022776bc63b2623ea72"
 
 [[files]]
+file = "mods/tectonic-forge-1.20.1-2.4.1.jar"
+hash = "1e8a9f1c929ccea1adda609233dad8b52f0d44d73b5c73254bed92a8b0d0f992"
+
+[[files]]
 file = "mods/the_bumblezone-7.6.12+1.20.1-forge.jar"
 hash = "cb1c3a3ecbda66d6e389027985d6af4d1242fce82d80be6ae06a9106cfd9499b"
 
