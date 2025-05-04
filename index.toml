@@ -429,6 +429,11 @@ hash = "03807b7d94ffe571f47bab91383d92cc382c3cf501ee5f9e2021c0343b56ed41"
 metafile = true
 
 [[files]]
+file = "mods/.index/better-advancements.pw.toml"
+hash = "d74e3af6cdaa8e33b9167722d18d4eda73cd278aabc33b0c36d211f4457631dd"
+metafile = true
+
+[[files]]
 file = "mods/.index/better-archeology.pw.toml"
 hash = "7ae711f0b33388c3bebb42608e3744a10d9cf2aa75365832378ba1e6f6007d20"
 metafile = true
@@ -1708,6 +1713,10 @@ hash = "7c39f0604238c9edd8f42cf89d7f67581111d6ba0ae576869f7d34479a7ae628"
 [[files]]
 file = "mods/BadOptimizations-2.2.2-1.20.1.jar"
 hash = "bdc0532cc43dadd2eac8630534f24d9cd30a204c402f4038f974633becf9e554"
+
+[[files]]
+file = "mods/BetterAdvancements-Forge-1.20.1-0.4.2.25.jar"
+hash = "7932d80b8cce7854d0c7b5a42a629a2d2237adb6faec004bf78e4e4920f5f2e0"
 
 [[files]]
 file = "mods/BetterF3-7.0.2-Forge-1.20.1.jar"
