@@ -525,6 +525,10 @@ file = "mods/easy-villagers-forge-1.20.1-1.1.27.jar"
 hash = "c92165aada7fd58073b00c1d9bfbf0641eb532d70916be696b3c8fe450b41437"
 
 [[files]]
+file = "mods/embeddium-0.3.31+mc1.20.1.jar"
+hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
+
+[[files]]
 file = "mods/emi-1.1.22+1.20.1+forge.jar"
 hash = "877a2831c44ab7a0e1f8da0df92125b42f93c6f9b9e4dd1ceb566d8adc67950a"
 
@@ -579,6 +583,10 @@ hash = "8a1de45d3770f99ac4980981a123cb40914ad24eaf479f5f78d35bb522dad809"
 [[files]]
 file = "mods/ferritecore-6.0.1-forge.jar"
 hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+
+[[files]]
+file = "mods/fumo-17.1.1 Forge.jar"
+hash = "6311c1a796cd490136a2cafb6964735150200a645aa7e0ba21e3fffa32ba1841"
 
 [[files]]
 file = "mods/functionalstorage-1.20.1-1.2.12.jar"
@@ -759,6 +767,10 @@ hash = "6dae18b0d95d4393e780caf5e4d2df9cc38ff67c789b830b6b3e10857edb4052"
 [[files]]
 file = "mods/smoothchunk-1.20.1-4.1.jar"
 hash = "0ee48f7bf78070a7cb5858492faa6fe7d58443acbd97a92547bd664ee710e5c1"
+
+[[files]]
+file = "mods/sodiumoptionsapi-forge-1.0.3-1.20.1.jar"
+hash = "bbacaa278432721d4e54f0fe3a63dbe9f582d01dd7ad5f17f56da2e9cd3a82c5"
 
 [[files]]
 file = "mods/sophisticatedcore-1.20.1-1.2.51.966.jar"
