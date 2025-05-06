@@ -61,6 +61,10 @@ file = "mods/.connector/temp/Axiom-4.7.1-for-MC1.20.1$mixinextras-fabric-0.3.5.j
 hash = "5a86f21177c92c296e01d34a968c3f516aceab27d0152dc4ca8f70405f90d6b7"
 
 [[files]]
+file = "mods/AI-Improvements-1.20-0.5.2.jar"
+hash = "575a4a8e00f982c064d54bb3e73e5cda2d14414de054a471a3daf3f58bdf560a"
+
+[[files]]
 file = "mods/AdvancedPeripherals-1.20.1-0.7.41r.jar"
 hash = "0c44d1b94df5a47d8f174c8627ec51b9e4c3449836891196683cbde4f481e02c"
 
@@ -127,6 +131,10 @@ hash = "470aede4e24e074c29637fe92ae822aa0f71d787f62e7c352f4c647632ef6a16"
 [[files]]
 file = "mods/Chimes-v2.0.1-1.20.1.jar"
 hash = "4e062fa1494d3e85497ff6dfe501a6336ce3eb774513ae133d9f0129d3a2572e"
+
+[[files]]
+file = "mods/ClearDespawn-forge-1.20.2-1.1.15.jar"
+hash = "91e1af65cceb78bab064ffb7a9e715938869fbbd9823772d2e3eb8f39ed6082c"
 
 [[files]]
 file = "mods/Clumps-forge-1.20.1-12.0.0.4.jar"
@@ -521,6 +529,10 @@ file = "mods/domum_ornamentum-1.20.1-1.0.285-snapshot-universal.jar"
 hash = "f95098559cb1c3585b610b1ffdc21104b0b69e4c6356a2412d07302a6e200e9b"
 
 [[files]]
+file = "mods/dynamiclights-v1.8.2-mc1.17x-1.20x-mod.jar"
+hash = "4f47039e39a82bcf4d32b2b7c0d34d26b84741662bed6db7beefa8dbb134ddf8"
+
+[[files]]
 file = "mods/easy-villagers-forge-1.20.1-1.1.27.jar"
 hash = "c92165aada7fd58073b00c1d9bfbf0641eb532d70916be696b3c8fe450b41437"
 
@@ -555,6 +567,10 @@ hash = "0ccae2ab627bf863bfa5557403ad238fa4eb5986674d4bf8602d6ad231716068"
 [[files]]
 file = "mods/everyxdance-1.0.0.jar"
 hash = "5c1fa0dc10c65909a2ace625d97e3f94b89681135f01072f322dbbb3b30cd92a"
+
+[[files]]
+file = "mods/exposure-1.20.1-1.7.13-forge.jar"
+hash = "4735ba34385039d7f8c50f98933a8637565d05a98b24cacb0c048c639f9f4760"
 
 [[files]]
 file = "mods/fabric-api-0.92.2+1.11.12+1.20.1.jar"
