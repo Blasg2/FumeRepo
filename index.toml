@@ -521,6 +521,10 @@ file = "mods/curios-forge-5.14.1+1.20.1.jar"
 hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
 
 [[files]]
+file = "mods/dark-console-1.0.0.jar"
+hash = "5d451e5fef3a334a2b25f93f9ec02c126c3fcda90cb8142cca5f483f3636d850"
+
+[[files]]
 file = "mods/darkheads-forge-1.20.1-1.0.6.jar"
 hash = "a938fcee7da8e3f981ed2c412103b409df8a2be96c505a911159ee6cb598dc8e"
 
@@ -659,6 +663,10 @@ hash = "8b2679b7b4881e0aa430fd24345ea446de919faf8a45bd2a71d37c7e8ff6ae1e"
 [[files]]
 file = "mods/jumpboat-1.20.0-1.0.5.jar"
 hash = "00491a3723b3d22094d40a6b782f919fd3428557ea1ae0d5312fb3dce96393f9"
+
+[[files]]
+file = "mods/kotlinforforge-4.11.0-all.jar"
+hash = "ef988f86d170af499d147ea8a5c34c99dbd6d8f4a5ad236a4b43818dc4470a10"
 
 [[files]]
 file = "mods/letsdo-vinery-forge-1.4.39.jar"
