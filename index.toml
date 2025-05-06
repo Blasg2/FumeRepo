@@ -285,6 +285,10 @@ file = "mods/Pehkui-3.8.2+1.20.1-forge.jar"
 hash = "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc"
 
 [[files]]
+file = "mods/PhantomTweaks-forge-1.20.1-0.jar"
+hash = "a181b98a486bcce4b3913db7e270b2e9c7ea36dc4ce86e73c11c7700df40ada8"
+
+[[files]]
 file = "mods/PigPen-Forge-1.20.1-15.0.2.jar"
 hash = "f5840fc095db6e5f1dd02dd72ad59e2ae3e88384f56fec0978f693241d92e86c"
 
@@ -295,10 +299,6 @@ hash = "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571"
 [[files]]
 file = "mods/PlentyPlates-v8.0.0-1.20.1-Forge.jar"
 hash = "3523424e0ffd05349f923bb5dc2ad72ab948813f79d6d72a74e84c07db9b5a1a"
-
-[[files]]
-file = "mods/ProjectE-1.20.1-PE1.0.1.jar"
-hash = "f51f387e56307e7cda26915ca0c789760d85e97a8b40b8bfa0988be66371d018"
 
 [[files]]
 file = "mods/PuzzlesLib-v8.1.32-1.20.1-Forge.jar"
@@ -521,10 +521,6 @@ file = "mods/curios-forge-5.14.1+1.20.1.jar"
 hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
 
 [[files]]
-file = "mods/dark-console-1.0.0.jar"
-hash = "5d451e5fef3a334a2b25f93f9ec02c126c3fcda90cb8142cca5f483f3636d850"
-
-[[files]]
 file = "mods/darkheads-forge-1.20.1-1.0.6.jar"
 hash = "a938fcee7da8e3f981ed2c412103b409df8a2be96c505a911159ee6cb598dc8e"
 
@@ -663,10 +659,6 @@ hash = "8b2679b7b4881e0aa430fd24345ea446de919faf8a45bd2a71d37c7e8ff6ae1e"
 [[files]]
 file = "mods/jumpboat-1.20.0-1.0.5.jar"
 hash = "00491a3723b3d22094d40a6b782f919fd3428557ea1ae0d5312fb3dce96393f9"
-
-[[files]]
-file = "mods/kotlinforforge-4.11.0-all.jar"
-hash = "ef988f86d170af499d147ea8a5c34c99dbd6d8f4a5ad236a4b43818dc4470a10"
 
 [[files]]
 file = "mods/letsdo-vinery-forge-1.4.39.jar"
