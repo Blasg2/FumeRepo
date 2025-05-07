@@ -9,7 +9,7 @@ x-prismlauncher-release-type = 'release'
 hash = '439e82c2e4f2f159996dc158915f20536cd600a9'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+url = 'https://github.com/Blasg2/FumeRepo'
 
 [update.curseforge]
 file-id = 4671986
