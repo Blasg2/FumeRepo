@@ -173,6 +173,10 @@ file = "mods/Botania-1.20.1-448-FORGE.jar"
 hash = "ce41e103686a59288398e0745d4ac9181a5203029f308916a264acc38981b6da"
 
 [[files]]
+file = "mods/Butchersdelight beta 1.20.1 2.1.0.jar"
+hash = "7086e03c670252c65e0a36d0127c4a9569fec0c1d3d2191ad5c1184d62cc0b6d"
+
+[[files]]
 file = "mods/CasinoCraft_1.20.1_v25.jar"
 hash = "470aede4e24e074c29637fe92ae822aa0f71d787f62e7c352f4c647632ef6a16"
 
@@ -529,6 +533,10 @@ file = "mods/cloth-config-11.1.136-forge.jar"
 hash = "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
 
 [[files]]
+file = "mods/cluttered-2.1-1.20.1.jar"
+hash = "5c17045591b220e7a07e4de4c734cc8e00c98b1a07e7d6afe8564b1c8efe3a01"
+
+[[files]]
 file = "mods/collective-1.20.1-8.3.jar"
 hash = "6719ac5ebb35227b0b28e097c7850ec639410eef97333e2988c2c0d561b23301"
 
@@ -611,6 +619,10 @@ hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
 [[files]]
 file = "mods/emi-1.1.22+1.20.1+forge.jar"
 hash = "877a2831c44ab7a0e1f8da0df92125b42f93c6f9b9e4dd1ceb566d8adc67950a"
+
+[[files]]
+file = "mods/emiffect-forge-1.1.2+mc1.20.1.jar"
+hash = "59934a6da6c6de4a083cbcc70e199c9a5e8cbb33a4ed613114fe4873979ac67a"
 
 [[files]]
 file = "mods/endermanoverhaul-forge-1.20.1-1.0.4.jar"
