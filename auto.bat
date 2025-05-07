@@ -71,3 +71,4 @@ echo.
 echo ✅ All done!
 endlocal
 pause
+cmd /k pause >nul
