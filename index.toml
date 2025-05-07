@@ -717,6 +717,10 @@ file = "mods/ironchest-1.20.1-14.4.4.jar"
 hash = "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f"
 
 [[files]]
+file = "mods/ironfurnaces-1.20.1-4.1.6.jar"
+hash = "be9bac471c10998fda1f999d1a2143a72059e70b20d8ecf17dd9d0eac76b07e5"
+
+[[files]]
 file = "mods/jmi-forge-1.20.1-0.14-48.jar"
 hash = "b96f323241bfc6295c6887c36c7a39e5375019883373db5a0383fc6d34f3a505"
 
