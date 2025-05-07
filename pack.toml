@@ -1,13 +1,16 @@
-name = "fumosoPack"
-author = "blasg"
-version = "1.0.0"
-pack-format = "packwiz:1.1.0"
+name         = "fumosoPack"
+author       = "blasg"
+version      = "1.0.0"
+pack-format  = "packwiz:1.1.0"
 
 [index]
-file = "index.toml"
-hash-format = "sha256"
-hash = "73a743993170fb0a340cb9ac92eb43cfbf04eb05b8f8ccfa374dc79b5464ecf0"
+# Fetch your index.toml from GitHub (raw or jsDelivr)—small file, no resume worries
+type = "direct"
+url  = "https://cdn.jsdelivr.net/gh/Blasg2/FumeRepo@main/index.toml"
+
+# Download each mod JAR from jsDelivr’s CDN so connections can resume
+download_url_template = "https://cdn.jsdelivr.net/gh/Blasg2/FumeRepo@main/mods/{{name}}"
 
 [versions]
-forge = "47.4.0"
-minecraft = "1.20.1"
+forge       = "47.4.0"
+minecraft   = "1.20.1"
