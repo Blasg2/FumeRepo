@@ -1,0 +1,16 @@
+filename = 'ccshops-0.0.1.jar'
+name = 'CC Shops'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e4094c5d0464e0bf7a2b29e39b820ed2990db6b79dd9f7009da32363006f3ccf3f40e191b21f76027dc2687c9b4ab4171a4e4206e696ce38e4df619561e22070'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9CUu68EQ/versions/XSzJW3ls/ccshops-0.0.1.jar'
+
+[update.modrinth]
+mod-id = '9CUu68EQ'
+version = 'XSzJW3ls'

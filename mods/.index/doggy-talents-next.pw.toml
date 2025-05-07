@@ -1,0 +1,16 @@
+filename = 'DoggyTalentsNext-1.20.1-1.18.45.jar'
+name = 'Doggy Talents Next'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a6b5bc53cc53ff366655ac4a6d8f1fad0fd9cdfbddf9f761ca73a9cc44e0ed7d65c03d7e54efccec3ef49616337eb788bb270562da372f702cb386a2d0891a29'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oXgmplvv/versions/LjQGa9AL/DoggyTalentsNext-1.20.1-1.18.45.jar'
+
+[update.modrinth]
+mod-id = 'oXgmplvv'
+version = 'LjQGa9AL'
