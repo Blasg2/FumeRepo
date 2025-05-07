@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "auto.bat"
-hash = "062635f851d5b43b6dd575d91d0dbac529a264ac064966fd822054e23a7e7d9d"
+hash = "c5c1a58a13c004ace302a8ba648ff3b5e54506d97e7ea4d966f90c1faab36afd"
 
 [[files]]
 file = "config/yes_steve_model-common.toml"
 hash = "95a43f938e07d710e2d30545feb9196849a08c9b14c583de3358b3467877e1ad"
+
+[[files]]
+file = "git_error.log"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/.connector/Axiom-4.7.1-for-MC1.20.1$axiomclientapi-1.0.0_mapped_srg_1.20.1.jar"
