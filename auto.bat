@@ -1,74 +1,56 @@
 @echo off
 chcp 65001 >nul
-setlocal enabledelayedexpansion
+rem ─── go to script’s own folder ──────────────────────────────────────
+cd /d "%~dp0"
 
-:: ─── CONFIG ─────────────────────────────────────────────────────────────
-set "REPO_DIR=C:\Users\guilh\OneDrive\Área de Trabalho\Packwiz Modpack"
-set "SOURCE=C:\Users\guilh\AppData\Roaming\PrismLauncher\instances\Fume\minecraft\mods"
-set "DEST=%REPO_DIR%\mods"
+rem ─── config ─────────────────────────────────────────────────────────
+set "SOURCE=%USERPROFILE%\AppData\Roaming\PrismLauncher\instances\Fume\minecraft\mods"
+set "DEST=%~dp0mods"
 
-:: ─── CLEAR OUT OLD MODS (but keep .index) ────────────────────────────────
-echo Cleaning mods folder at "%DEST%", preserving .index...
+rem ─── clean mods but keep .index ────────────────────────────────────
+echo Cleaning "%DEST%", preserving .index…
 if exist "%DEST%" (
-    for /d %%D in ("%DEST%\*") do (
-        if /I not "%%~nxD"==".index" rd /s /q "%%D"
-    )
-    for %%F in ("%DEST%\*") do (
-        if /I not "%%~nxF"==".index" del /q "%%F"
-    )
+  for /d %%D in ("%DEST%\*") do (
+    if /I not "%%~nxD"==".index" rd /s /q "%%D"
+  )
+  for %%F in ("%DEST%\*") do (
+    if /I not "%%~nxF"==".index" del /q "%%F"
+  )
 ) else (
-    mkdir "%DEST%"
+  mkdir "%DEST%"
 )
 
-:: ─── COPY NEW MODS ──────────────────────────────────────────────────────
-echo.
+rem ─── copy new mods ─────────────────────────────────────────────────
 echo Copying mods from:
 echo   %SOURCE%
 echo to:
 echo   %DEST%
 xcopy "%SOURCE%\*" "%DEST%\" /E /I /Y
 
-:: ─── PACKWIZ REFRESH & GIT ──────────────────────────────────────────────
+rem ─── packwiz refresh ───────────────────────────────────────────────
 echo.
-echo === Running packwiz refresh and Git operations in repo ===
-pushd "%REPO_DIR%"
-
-echo.
-echo 1) packwiz refresh
+echo === Running packwiz refresh ===
+pushd "%~dp0"
 packwiz refresh
-
-:: timestamp
-for /f %%i in ('powershell -nologo -command "Get-Date -Format ''yyyy-MM-dd HH:mm:ss''"') do set "datetime=%%i"
-
-echo.
-echo 2) git status (before)
-git status
-
-echo.
-echo 3) git add all changes (including deletions)
-git add -A
-
-echo.
-echo 4) git status (staged)
-git status
-
-echo.
-echo 5) git commit
-git commit -m "Auto update on %datetime%" 2>git_error.log
-
-if %ERRORLEVEL% EQU 0 (
-    echo Commit succeeded.
-    echo 6) git push
-    git push
-) else (
-    echo No changes to commit or commit failed. See git_error.log for details.
-)
-
 popd
 
-:: ─── DONE ────────────────────────────────────────────────────────────────
+rem ─── git add/commit/push ────────────────────────────────────────────
 echo.
-echo ✅ All done!
-endlocal
-pause
-cmd /k pause >nul
+echo === Staging all changes ===
+git add -A
+
+echo Checking for unstaged changes…
+git diff --cached --quiet
+if ERRORLEVEL 1 (
+  echo Changes detected. Committing and pushing…
+  for /f %%i in ('powershell -nologo -command "Get-Date -Format yyyy-MM-dd_HH:mm:ss"') do set "ts=%%i"
+  git commit -m "Auto-update %ts%"
+  git push
+) else (
+  echo No changes to commit.
+)
+
+rem ─── done ──────────────────────────────────────────────────────────
+echo.
+echo ✅ All done! Press any key to exit…
+pause >nul
