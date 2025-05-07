@@ -1,0 +1,11 @@
+{
+  "unsup_manifest": "root-1",
+  "name": "Fume FumeRepo Modpack",
+  "versions": {
+    "current": {
+      "name": "1.0.0",
+      "code": 1
+    },
+    "history": []
+  }
+}
