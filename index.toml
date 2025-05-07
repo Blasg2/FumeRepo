@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/aether-villages.pw.toml"
-hash = "6c25181a663f7f7a209e6c3d6e3c6a29a079fc678c4b834f26c913d2e2978c4e"
+hash = "65efbb27d7ff0915eef43db358549a6558080af0240fe24b4e081f51bd1a955f"
 metafile = true
 
 [[files]]
@@ -2079,6 +2079,10 @@ hash = "ef942fa31e5281b80e4fd4692d197774bb0e8be6486f75f5d584951e29175def"
 [[files]]
 file = "mods/starlight-1.1.2+forge.1cda73c.jar"
 hash = "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500"
+
+[[files]]
+file = "mods/starterkit-1.20.1-7.4.jar"
+hash = "b44031f90b63dae5f050e05ed0f93cc7b87d7f8ed7e7199c2840a94807725c07"
 
 [[files]]
 file = "mods/structure_gel-1.20.1-2.16.2.jar"
