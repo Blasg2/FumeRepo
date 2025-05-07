@@ -1,0 +1,16 @@
+filename = 'letsdo-vinery-forge-1.4.39.jar'
+name = "[Let's Do] Vinery"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6c3da6c55b435d50dd4a670881a50a8ec672258f5dd920da2b7dbafc5df085ce7b70d390cf8569be919ac8c6053e0ffcdd9b7846058077dff444da251b86a0b4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1DWmBJVA/versions/YpD6ue8A/letsdo-vinery-forge-1.4.39.jar'
+
+[update.modrinth]
+mod-id = '1DWmBJVA'
+version = 'YpD6ue8A'

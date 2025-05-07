@@ -1,0 +1,16 @@
+filename = 'multipiston-1.20-1.2.43-RELEASE.jar'
+name = 'Multi-Piston'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1fc108ebf5f9fe34cf0366c7b71adf230400a74c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5204918
+project-id = 303278
