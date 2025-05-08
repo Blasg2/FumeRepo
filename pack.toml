@@ -8,7 +8,7 @@ file                    = "index.toml"
 hash-format             = "sha256"
 hash                    = "73a743993170fb0a340cb9ac92eb43cfbf04eb05b8f8ccfa374dc79b5464ecf0"
 
-download_url_template   = "https://cdn.jsdelivr.net/gh/Blasg2/FumeRepo@main/mods/{{name}}"
+download_url_template   = "https://cdn.jsdelivr.net/gh/Blasg223/bogus/mods/{{name}}"
 
 [versions]
 forge       = "47.4.0"
