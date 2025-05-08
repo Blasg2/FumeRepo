@@ -7,11 +7,10 @@
 - file        = "index.toml"
 - hash-format = "sha256"
 - hash        = "73a743993170fb0a340cb9ac92eb43cfbf04eb05b8f8ccfa374dc79b5464ecf0"
-
-[index]
- type                    = "direct"
- url                     = "https://raw.githubusercontent.com/Blasg2/FumeRepo/main/index.toml"
- download_url_template   = "https://cdn.jsdelivr.net/gh/Blasg2/FumeRepo@main/mods/{{name}}"
++[index]
++ type                    = "direct"
++ url                     = "https://raw.githubusercontent.com/Blasg2/FumeRepo/main/index.toml"
++ download_url_template   = "https://cdn.jsdelivr.net/gh/Blasg2/FumeRepo@main/mods/{{name}}"
 
  [versions]
  forge       = "47.4.0"
