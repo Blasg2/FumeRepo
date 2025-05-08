@@ -4,11 +4,11 @@ version      = "1.0.0"
 pack-format  = "packwiz:1.1.0"
 
 [index]
-# Fetch your index.toml from GitHub (raw or jsDelivr)—small file, no resume worries
+# 1. Grab your index file (index.toml) from GitHub RAW
 type = "direct"
-url  = "https://cdn.jsdelivr.net/gh/Blasg2/FumeRepo@main/index.toml"
+url  = "https://raw.githubusercontent.com/Blasg2/FumeRepo/main/index.toml"
 
-# Download each mod JAR from jsDelivr’s CDN so connections can resume
+# 2. But fetch every mod jar from jsDelivr’s CDN
 download_url_template = "https://cdn.jsdelivr.net/gh/Blasg2/FumeRepo@main/mods/{{name}}"
 
 [versions]
