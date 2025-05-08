@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 type                  = "direct"
 url                   = "https://blasg2.github.io/FumeRepo/index.toml"
-download_url_template = "https://cdn.jsdelivr.net/gh/Blasg2/FumeRepo@main/mods/{{name}}"
+download_url_template = "https://cdn.jsdelivr.net/gh/Blasg222/FumeRepo@main/mods/{{name}}"
 
 [versions]
 forge       = "47.4.0"
