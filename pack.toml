@@ -1,17 +1,13 @@
- name        = "fumosoPack"
- author      = "blasg"
- version     = "1.0.0"
- pack-format = "packwiz:1.1.0"
+name        = "fumosoPack"
+author      = "blasg"
+version     = "1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
-file        = "index.toml"
-hash-format = "sha256"
-hash        = "73a743993170fb0a340cb9ac92eb43cfbf04eb05b8f8ccfa374dc79b5464ecf0"
+type                  = "direct"
+url                   = "https://blasg2.github.io/FumeRepo/index.toml"
+download_url_template = "https://cdn.jsdelivr.net/gh/Blasg2/FumeRepo@main/mods/{{name}}"
 
-type = "direct"
-url            = "https://blasg2.github.io/FumeRepo/index.toml"
-download_url_template  = "https://cdn.jsdelivr.net/gh/Blasg22/FumeRepo@main/mods/{{name}}"
-
- [versions]
- forge       = "47.4.0"
- minecraft   = "1.20.1"
+[versions]
+forge       = "47.4.0"
+minecraft   = "1.20.1"
