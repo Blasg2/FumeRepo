@@ -1,12 +1,12 @@
 name = "fumosoPack"
 author = "blasg"
 version = "1.0.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "53feaf64c92e680f753bd71a3776cf3a694519ffc8ee8cd00b6b4b7b6f6ecd4f"
+hash = "d46e2337f2c893f879ab64aef0a87675af95520988880a2e3f12b46e6cc48c70"
 
 [versions]
 forge = "47.4.0"
