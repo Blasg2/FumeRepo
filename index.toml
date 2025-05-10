@@ -493,10 +493,6 @@ file = "mods/brfields-graphicupdate.jar"
 hash = "4211b5979ecd90e7a6f941111e5b17cc75365f7673a860ed3a7cfa2cb34f5fe2"
 
 [[files]]
-file = "mods/camera-forge-1.20.1-1.0.20.jar"
-hash = "593f3a9c0baf09d7baf8f9ec44b882716c43fbf11d5cbff607c9f7fa3ec9aeb8"
-
-[[files]]
 file = "mods/carryon-forge-1.20.1-2.1.2.7.jar"
 hash = "d7470921fc5ff988788d43409083f62478aecc91f4b81d7e6b63c80c933d4613"
 
