@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/yes_steve_model-common.toml"
 hash = "95a43f938e07d710e2d30545feb9196849a08c9b14c583de3358b3467877e1ad"
+
+[[files]]
+file = "index.html"
+hash = "bfc87bd61e73acf23bd04868041c668b8243955761119afdebbe0c74306ebafc"
 
 [[files]]
 file = "mods/.connector/Axiom-4.7.1-for-MC1.20.1$axiomclientapi-1.0.0_mapped_srg_1.20.1.jar"
@@ -319,6 +327,10 @@ hash = "5ad0efe29f32524be436e0843f930b03702678703b82a6bf66d3cb987369671e"
 [[files]]
 file = "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
 hash = "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08"
+
+[[files]]
+file = "mods/MyServerIsCompatible-1.20-1.0.jar"
+hash = "74bd64fe43eefa4a81006184b7558ceff20f6579597c0c35baeb44e70cfaaf51"
 
 [[files]]
 file = "mods/NaturesCompass-1.20.1-1.11.2-forge.jar"
@@ -683,6 +695,22 @@ hash = "f7fdcdabd69d2da8876f1633376d7de4278263d39b6d2ca52663bd4868596be5"
 [[files]]
 file = "mods/ferritecore-6.0.1-forge.jar"
 hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+
+[[files]]
+file = "mods/ftb-chunks-forge-2001.3.6.jar"
+hash = "caaa40aea64bba6f113fbddcabf77962b4b4e03bf57cbabace07ab05d28b38f9"
+
+[[files]]
+file = "mods/ftb-essentials-forge-2001.2.2.jar"
+hash = "17475fdb125ce7f81225d12d7638f7d1fb239f7c4beb7b6b9976fa0a622b692c"
+
+[[files]]
+file = "mods/ftb-library-forge-2001.2.9.jar"
+hash = "b7d5d19889c485a9746022fdc42f3297aa4d26014559ea0ed35fa7ba816b001d"
+
+[[files]]
+file = "mods/ftb-teams-forge-2001.3.1.jar"
+hash = "d6e3cf8d0bdae7f848764428c613ae2528aecf9d275b4169eb8e15da87b41863"
 
 [[files]]
 file = "mods/fumo-17.1.1 Forge.jar"
