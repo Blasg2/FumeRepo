@@ -1,0 +1,16 @@
+filename = 'simpleshops-1.2.2.jar'
+name = 'Simple Shops'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8751f9a178b3002e746b2f30af75dd83281821ee'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4716851
+project-id = 517272

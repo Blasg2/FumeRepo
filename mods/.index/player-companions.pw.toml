@@ -1,0 +1,16 @@
+filename = 'player_companions_1.20.1-6.11.0.jar'
+name = 'Player Companions'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '25bfc633e3aedeae875726a1cb1ba2de2488be8a516769c3f2969d18ed5f546136585d790f6e12c4b1a37449a894046f26e30452c3618e1c1fd9c7add02350e2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fTwCsQR9/versions/T4DEBQ29/player_companions_1.20.1-6.11.0.jar'
+
+[update.modrinth]
+mod-id = 'fTwCsQR9'
+version = 'T4DEBQ29'
