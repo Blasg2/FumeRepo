@@ -1,0 +1,16 @@
+filename = 'DarkModeEverywhere-1.20.1-1.2.4.jar'
+name = 'Dark Mode Everywhere'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '96047769c9169affbf56134c654316fe1735e033c7107713b6555660d0e6a66509db34eabdfc333ff2ba68529ce8e8b2e002b379128cb5a00e43df26e697f037'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/k3lrwGqk/versions/twErulQs/DarkModeEverywhere-1.20.1-1.2.4.jar'
+
+[update.modrinth]
+mod-id = 'k3lrwGqk'
+version = 'twErulQs'

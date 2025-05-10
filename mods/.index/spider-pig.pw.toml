@@ -1,0 +1,16 @@
+filename = 'SpiderPig-1.20-1.0.3.jar'
+name = 'Spider Pig'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd1ceca27a9d2ea385207bbfd9d6917f6d2c8b62c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4610825
+project-id = 472961
