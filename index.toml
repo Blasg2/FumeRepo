@@ -13,6 +13,10 @@ file = "config/yes_steve_model-common.toml"
 hash = "95a43f938e07d710e2d30545feb9196849a08c9b14c583de3358b3467877e1ad"
 
 [[files]]
+file = "index.html"
+hash = "46ab918ab2540183299659ee110d68468bf4e8e8b9bac2fbb5dd7d700643dbd4"
+
+[[files]]
 file = "mods/AI-Improvements-1.20-0.5.2.jar"
 hash = "575a4a8e00f982c064d54bb3e73e5cda2d14414de054a471a3daf3f58bdf560a"
 
